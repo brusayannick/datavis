@@ -1,0 +1,32 @@
+# BiciMAD 2022 Visualization Project — Cursor Rules
+
+## Tech Stack
+- **Frontend**: React 19 + Vite, D3.js v7, Deck.gl v9, MapLibre GL
+- **Preprocessing**: Python 3.11+, pandas, numpy, python-louvain
+- **Styling**: Vanilla CSS with glassmorphism design system (no Tailwind/CSS-in-JS)
+- **Icons**: lucide-react
+- **Deployment**: Local only / zip submission (no SSR, no backend)
+
+## Data Schema Quick Reference
+- **Trip CSVs** (`bicimad_2022/trips_22_MM_*.csv`): Semicolon-delimited, CRLF, two schemas (19 cols Jan-Jul w/ idTrip, 18 cols Feb-Dec w/o). Every data row followed by filler row. Geolocation is Python literal (`ast.literal_eval`), coords are [lon, lat].
+- **Station JSON** (`bicimad_2022/2022MM.json`): Line-delimited JSON, one snapshot per line, 264 stations each. Lat/lon are strings. `id` joins to CSV `station_unlock`/`station_lock`.
+- **August 18–22 trip gap**: Exclude from all aggregations. JSON snapshots are complete for these dates.
+
+## Coding Conventions
+- Components: PascalCase `.jsx` files in `src/components/`
+- UI primitives: `src/components/ui/Glass*.jsx`
+- Hooks: `use*.js` in `src/hooks/`
+- Utilities: `src/utils/`
+- Preprocessing scripts: `scripts/*.py`, each independently runnable
+- Pre-processed data output: `public/data/*.json`
+- Use column names never positional indices for CSV parsing
+- All D3 visualizations must be responsive (ResizeObserver pattern)
+- Canvas rendering for OD matrix (264×264 = ~70K cells)
+
+## Design System
+- Background: #F5F3EF (warm off-white)
+- Glass cards: rgba(255,255,255,0.6), backdrop-filter: blur(20px), border-radius: 16px
+- Typography: system sans-serif, uppercase tracking for labels
+- Accent: muted navy #1B2A4A
+- Buttons: pill-shaped, transparent/glass, uppercase text
+- Spacing: generous (24-32px padding)

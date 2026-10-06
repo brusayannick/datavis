@@ -1,0 +1,63 @@
+.q3-matrix-card {
+  background: #161B23;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.q3-matrix-card:hover {
+  background: #161B23;
+}
+
+.q3-matrix-card .label-uppercase {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.q3-controls-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.q3-control {
+  min-width: 260px;
+  flex: 0 1 340px;
+}
+
+.q3-control .label-uppercase {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.q3-control .glass-slider {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.q3-control .glass-slider-value {
+  color: #F7D038;
+}
+
+.q3-matrix-card .od-legend-item {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.q3-matrix-card .od-legend-sep {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.q3-communities {
+  display: flex;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.q3-community-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.75);
+}

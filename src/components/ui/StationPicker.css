@@ -1,0 +1,127 @@
+.station-picker {
+  position: relative;
+}
+
+.station-picker-trigger {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--glass-border);
+  border-radius: 999px;
+  padding: 9px 16px;
+  font-size: 0.8125rem;
+  font-family: var(--font-family);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  min-width: 240px;
+  max-width: 340px;
+  text-align: left;
+}
+
+.station-picker-trigger:hover {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.station-picker-trigger.open {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(27, 42, 74, 0.12);
+}
+
+.station-picker-value {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
+
+.station-picker-placeholder {
+  flex: 1;
+  color: var(--text-muted);
+}
+
+.station-picker-chevron {
+  flex-shrink: 0;
+  transition: transform var(--transition-fast);
+  color: var(--text-secondary);
+}
+
+.station-picker-chevron.open {
+  transform: rotate(180deg);
+}
+
+.station-picker-dropdown {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  left: auto;
+  width: min(340px, calc(100vw - 48px));
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border);
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.14);
+  z-index: 500;
+  padding: 8px;
+}
+
+.station-picker-search {
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.8125rem;
+  font-family: var(--font-family);
+  background: rgba(0, 0, 0, 0.03);
+  outline: none;
+  margin-bottom: 6px;
+}
+
+.station-picker-search:focus {
+  border-color: var(--accent);
+}
+
+.station-picker-list {
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.station-picker-option {
+  display: block;
+  width: 100%;
+  padding: 7px 12px;
+  border: none;
+  background: transparent;
+  border-radius: 8px;
+  font-size: 0.8125rem;
+  font-family: var(--font-family);
+  color: var(--text-primary);
+  cursor: pointer;
+  text-align: left;
+  transition: background var(--transition-fast);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.station-picker-option:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.station-picker-option.active {
+  background: var(--accent);
+  color: white;
+}
+
+.station-picker-empty {
+  display: block;
+  padding: 12px;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  text-align: center;
+}

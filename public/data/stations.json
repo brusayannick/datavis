@@ -1,0 +1,2114 @@
+[
+  {
+    "id": 1,
+    "number": "1a",
+    "name": "Puerta del Sol A",
+    "lat": 40.4172137,
+    "lon": -3.7018341,
+    "total_bases": 30
+  },
+  {
+    "id": 2,
+    "number": "1b",
+    "name": "Puerta del Sol B",
+    "lat": 40.41731271011562,
+    "lon": -3.701602938060457,
+    "total_bases": 30
+  },
+  {
+    "id": 3,
+    "number": "2",
+    "name": "Miguel Moya",
+    "lat": 40.4205886,
+    "lon": -3.7058415,
+    "total_bases": 24
+  },
+  {
+    "id": 4,
+    "number": "3",
+    "name": "Plaza Conde Suchil",
+    "lat": 40.4302937,
+    "lon": -3.7069171,
+    "total_bases": 18
+  },
+  {
+    "id": 5,
+    "number": "4",
+    "name": "Malasaña",
+    "lat": 40.4285524,
+    "lon": -3.7025875,
+    "total_bases": 24
+  },
+  {
+    "id": 6,
+    "number": "5",
+    "name": "Fuencarral",
+    "lat": 40.42852,
+    "lon": -3.70205,
+    "total_bases": 27
+  },
+  {
+    "id": 7,
+    "number": "6",
+    "name": "Colegio Arquitectos",
+    "lat": 40.424148,
+    "lon": -3.698447,
+    "total_bases": 24
+  },
+  {
+    "id": 8,
+    "number": "7",
+    "name": "Hortaleza",
+    "lat": 40.4251906,
+    "lon": -3.6977715,
+    "total_bases": 21
+  },
+  {
+    "id": 9,
+    "number": "8",
+    "name": "Alonso Martínez",
+    "lat": 40.4278682,
+    "lon": -3.6954403,
+    "total_bases": 24
+  },
+  {
+    "id": 10,
+    "number": "9",
+    "name": "Plaza de San Miguel",
+    "lat": 40.4156057,
+    "lon": -3.7095084,
+    "total_bases": 24
+  },
+  {
+    "id": 11,
+    "number": "10",
+    "name": "Marqués de la Ensenada",
+    "lat": 40.42533,
+    "lon": -3.69214,
+    "total_bases": 24
+  },
+  {
+    "id": 12,
+    "number": "11",
+    "name": "San Andrés",
+    "lat": 40.4269483,
+    "lon": -3.7035918,
+    "total_bases": 24
+  },
+  {
+    "id": 13,
+    "number": "12",
+    "name": "San Hermenegildo",
+    "lat": 40.4284246,
+    "lon": -3.7061931,
+    "total_bases": 24
+  },
+  {
+    "id": 14,
+    "number": "13",
+    "name": "Conde Duque",
+    "lat": 40.4273264,
+    "lon": -3.7104417,
+    "total_bases": 24
+  },
+  {
+    "id": 15,
+    "number": "14",
+    "name": "Ventura Rodríguez",
+    "lat": 40.4260957,
+    "lon": -3.713479,
+    "total_bases": 24
+  },
+  {
+    "id": 16,
+    "number": "15",
+    "name": "San Vicente Ferrer",
+    "lat": 40.4262383,
+    "lon": -3.7074453,
+    "total_bases": 21
+  },
+  {
+    "id": 17,
+    "number": "16",
+    "name": "San Bernardo",
+    "lat": 40.4230721,
+    "lon": -3.7075065,
+    "total_bases": 21
+  },
+  {
+    "id": 18,
+    "number": "17",
+    "name": "Carlos Cambronero",
+    "lat": 40.4232649,
+    "lon": -3.7038312,
+    "total_bases": 24
+  },
+  {
+    "id": 19,
+    "number": "18",
+    "name": "Plaza de Pedro Zerolo",
+    "lat": 40.4207773,
+    "lon": -3.6996502,
+    "total_bases": 24
+  },
+  {
+    "id": 20,
+    "number": "19",
+    "name": "Prim",
+    "lat": 40.4218616,
+    "lon": -3.6954983,
+    "total_bases": 24
+  },
+  {
+    "id": 21,
+    "number": "20a",
+    "name": "Banco de España A",
+    "lat": 40.4192342,
+    "lon": -3.6954615,
+    "total_bases": 30
+  },
+  {
+    "id": 25,
+    "number": "22",
+    "name": "Jacometrezo",
+    "lat": 40.4200783,
+    "lon": -3.7065376,
+    "total_bases": 24
+  },
+  {
+    "id": 26,
+    "number": "23",
+    "name": "Santo Domingo",
+    "lat": 40.4202834,
+    "lon": -3.7081246,
+    "total_bases": 24
+  },
+  {
+    "id": 27,
+    "number": "24",
+    "name": "Palacio de Oriente",
+    "lat": 40.417908,
+    "lon": -3.710692,
+    "total_bases": 24
+  },
+  {
+    "id": 28,
+    "number": "25a",
+    "name": "Plaza de Celenque A",
+    "lat": 40.4173703,
+    "lon": -3.7057791,
+    "total_bases": 24
+  },
+  {
+    "id": 29,
+    "number": "25b",
+    "name": "Plaza de Celenque B",
+    "lat": 40.4172781,
+    "lon": -3.7063837,
+    "total_bases": 24
+  },
+  {
+    "id": 30,
+    "number": "26",
+    "name": "Plaza de las Salesas",
+    "lat": 40.423855,
+    "lon": -3.694475,
+    "total_bases": 24
+  },
+  {
+    "id": 31,
+    "number": "27",
+    "name": "Huertas",
+    "lat": 40.4132798,
+    "lon": -3.6956178,
+    "total_bases": 24
+  },
+  {
+    "id": 32,
+    "number": "28",
+    "name": "Sevilla",
+    "lat": 40.4181518,
+    "lon": -3.6984368,
+    "total_bases": 24
+  },
+  {
+    "id": 33,
+    "number": "29",
+    "name": "Marqués de Cubas",
+    "lat": 40.4162619,
+    "lon": -3.6957355,
+    "total_bases": 24
+  },
+  {
+    "id": 34,
+    "number": "30",
+    "name": "San Quintín",
+    "lat": 40.4192095,
+    "lon": -3.711504,
+    "total_bases": 27
+  },
+  {
+    "id": 35,
+    "number": "31",
+    "name": "Calle Mayor",
+    "lat": 40.4163638,
+    "lon": -3.7068969,
+    "total_bases": 27
+  },
+  {
+    "id": 36,
+    "number": "32",
+    "name": "Plaza de la Provincia",
+    "lat": 40.4150099,
+    "lon": -3.7061032,
+    "total_bases": 18
+  },
+  {
+    "id": 37,
+    "number": "33",
+    "name": "Carretas",
+    "lat": 40.4165039,
+    "lon": -3.7030833,
+    "total_bases": 21
+  },
+  {
+    "id": 38,
+    "number": "34",
+    "name": "Jacinto Benavente",
+    "lat": 40.4146755,
+    "lon": -3.7036825,
+    "total_bases": 24
+  },
+  {
+    "id": 39,
+    "number": "35",
+    "name": "Plaza del Cordón",
+    "lat": 40.4141931,
+    "lon": -3.7103285,
+    "total_bases": 24
+  },
+  {
+    "id": 40,
+    "number": "36",
+    "name": "Plaza Ramales",
+    "lat": 40.4168,
+    "lon": -3.71183,
+    "total_bases": 24
+  },
+  {
+    "id": 41,
+    "number": "37",
+    "name": "Plaza de San Francisco",
+    "lat": 40.4108,
+    "lon": -3.714113,
+    "total_bases": 24
+  },
+  {
+    "id": 42,
+    "number": "38",
+    "name": "Plaza de los Carros",
+    "lat": 40.4114041,
+    "lon": -3.7114762,
+    "total_bases": 24
+  },
+  {
+    "id": 43,
+    "number": "39",
+    "name": "Plaza de la Cebada",
+    "lat": 40.4112744,
+    "lon": -3.7088337,
+    "total_bases": 27
+  },
+  {
+    "id": 44,
+    "number": "40",
+    "name": "Conde de Romanones",
+    "lat": 40.4138846,
+    "lon": -3.7049407,
+    "total_bases": 24
+  },
+  {
+    "id": 45,
+    "number": "41",
+    "name": "Antón Martín",
+    "lat": 40.4122047,
+    "lon": -3.6991147,
+    "total_bases": 18
+  },
+  {
+    "id": 46,
+    "number": "42",
+    "name": "Santa Isabel",
+    "lat": 40.4107085,
+    "lon": -3.6982318,
+    "total_bases": 24
+  },
+  {
+    "id": 47,
+    "number": "43",
+    "name": "Jesús y María",
+    "lat": 40.4101564,
+    "lon": -3.7025024,
+    "total_bases": 24
+  },
+  {
+    "id": 48,
+    "number": "44",
+    "name": "Plaza de Nelson Mandela",
+    "lat": 40.4097617,
+    "lon": -3.7040666,
+    "total_bases": 21
+  },
+  {
+    "id": 49,
+    "number": "45",
+    "name": "Puerta de Toledo",
+    "lat": 40.4070358,
+    "lon": -3.7110513,
+    "total_bases": 21
+  },
+  {
+    "id": 50,
+    "number": "46",
+    "name": "Ribera de Curtidores",
+    "lat": 40.4053153,
+    "lon": -3.7071259,
+    "total_bases": 24
+  },
+  {
+    "id": 51,
+    "number": "47",
+    "name": "Embajadores 1",
+    "lat": 40.4047851,
+    "lon": -3.7028265,
+    "total_bases": 24
+  },
+  {
+    "id": 52,
+    "number": "48",
+    "name": "Embajadores 2",
+    "lat": 40.4056107,
+    "lon": -3.7022591,
+    "total_bases": 24
+  },
+  {
+    "id": 53,
+    "number": "49",
+    "name": "Casa Encendida",
+    "lat": 40.4060941,
+    "lon": -3.6992759,
+    "total_bases": 24
+  },
+  {
+    "id": 54,
+    "number": "50",
+    "name": "Museo Reina Sofía",
+    "lat": 40.4083684,
+    "lon": -3.6933463,
+    "total_bases": 24
+  },
+  {
+    "id": 55,
+    "number": "51",
+    "name": "Ronda de Atocha",
+    "lat": 40.4075606,
+    "lon": -3.6935205,
+    "total_bases": 27
+  },
+  {
+    "id": 56,
+    "number": "52",
+    "name": "Plaza de Santa Ana",
+    "lat": 40.4144226,
+    "lon": -3.7007164,
+    "total_bases": 24
+  },
+  {
+    "id": 57,
+    "number": "53",
+    "name": "Plaza de Lavapiés",
+    "lat": 40.4083061,
+    "lon": -3.7007111,
+    "total_bases": 24
+  },
+  {
+    "id": 58,
+    "number": "54",
+    "name": "Barceló",
+    "lat": 40.4266828,
+    "lon": -3.700423,
+    "total_bases": 21
+  },
+  {
+    "id": 59,
+    "number": "55",
+    "name": "Plaza de San Ildefonso",
+    "lat": 40.4239757,
+    "lon": -3.7020842,
+    "total_bases": 24
+  },
+  {
+    "id": 60,
+    "number": "56",
+    "name": "Plaza del Carmen ",
+    "lat": 40.4184192,
+    "lon": -3.7032414,
+    "total_bases": 24
+  },
+  {
+    "id": 61,
+    "number": "57",
+    "name": "Santa Cruz del Marcenado",
+    "lat": 40.4295658,
+    "lon": -3.7126299,
+    "total_bases": 24
+  },
+  {
+    "id": 62,
+    "number": "58",
+    "name": "Augusto Figueroa",
+    "lat": 40.4222862,
+    "lon": -3.697895,
+    "total_bases": 24
+  },
+  {
+    "id": 63,
+    "number": "59",
+    "name": "Plaza de Juan Pujol",
+    "lat": 40.4255495,
+    "lon": -3.7043418,
+    "total_bases": 21
+  },
+  {
+    "id": 64,
+    "number": "60",
+    "name": "Plaza de la Independencia",
+    "lat": 40.419752,
+    "lon": -3.688398,
+    "total_bases": 24
+  },
+  {
+    "id": 65,
+    "number": "61",
+    "name": "Narváez",
+    "lat": 40.4213983,
+    "lon": -3.6752045,
+    "total_bases": 24
+  },
+  {
+    "id": 66,
+    "number": "62",
+    "name": "O'Donnell",
+    "lat": 40.4213148,
+    "lon": -3.6724968,
+    "total_bases": 24
+  },
+  {
+    "id": 67,
+    "number": "63",
+    "name": "Ibiza",
+    "lat": 40.4179237,
+    "lon": -3.6708959,
+    "total_bases": 24
+  },
+  {
+    "id": 69,
+    "number": "65",
+    "name": "Antonio Maura",
+    "lat": 40.4166834,
+    "lon": -3.6894193,
+    "total_bases": 24
+  },
+  {
+    "id": 71,
+    "number": "67",
+    "name": "Almadén",
+    "lat": 40.4108472,
+    "lon": -3.693225,
+    "total_bases": 24
+  },
+  {
+    "id": 72,
+    "number": "68",
+    "name": "Espalter",
+    "lat": 40.4128372,
+    "lon": -3.6912023,
+    "total_bases": 21
+  },
+  {
+    "id": 73,
+    "number": "69",
+    "name": "Puerta del Ángel Caído",
+    "lat": 40.409808,
+    "lon": -3.688822,
+    "total_bases": 27
+  },
+  {
+    "id": 74,
+    "number": "70",
+    "name": "Puerta del Doce de Octubre",
+    "lat": 40.4153053,
+    "lon": -3.6779232,
+    "total_bases": 24
+  },
+  {
+    "id": 75,
+    "number": "71",
+    "name": "Doce de Octubre",
+    "lat": 40.4159569,
+    "lon": -3.6738865,
+    "total_bases": 24
+  },
+  {
+    "id": 76,
+    "number": "72",
+    "name": "Sainz de Baranda",
+    "lat": 40.4157413,
+    "lon": -3.6691838,
+    "total_bases": 24
+  },
+  {
+    "id": 77,
+    "number": "73",
+    "name": "Plaza de los Astros",
+    "lat": 40.4114475,
+    "lon": -3.6689089,
+    "total_bases": 24
+  },
+  {
+    "id": 78,
+    "number": "74",
+    "name": "Puerta del Pacífico ",
+    "lat": 40.4117627,
+    "lon": -3.6766813,
+    "total_bases": 24
+  },
+  {
+    "id": 79,
+    "number": "75",
+    "name": "Menéndez Pelayo",
+    "lat": 40.4082805,
+    "lon": -3.6784838,
+    "total_bases": 24
+  },
+  {
+    "id": 80,
+    "number": "76",
+    "name": "Puerta de Mariano de Cavia",
+    "lat": 40.4071304,
+    "lon": -3.6751352,
+    "total_bases": 24
+  },
+  {
+    "id": 81,
+    "number": "77",
+    "name": "Conde de Casal",
+    "lat": 40.40635,
+    "lon": -3.670422,
+    "total_bases": 22
+  },
+  {
+    "id": 82,
+    "number": "78",
+    "name": "Pedro Bosch",
+    "lat": 40.400789,
+    "lon": -3.6744,
+    "total_bases": 24
+  },
+  {
+    "id": 83,
+    "number": "79",
+    "name": "Puerta de Granada",
+    "lat": 40.4051451,
+    "lon": -3.6803874,
+    "total_bases": 24
+  },
+  {
+    "id": 84,
+    "number": "80a",
+    "name": "Atocha A",
+    "lat": 40.4075685,
+    "lon": -3.6902255,
+    "total_bases": 24
+  },
+  {
+    "id": 85,
+    "number": "80b",
+    "name": "Atocha B",
+    "lat": 40.4074902,
+    "lon": -3.6901234,
+    "total_bases": 27
+  },
+  {
+    "id": 86,
+    "number": "81",
+    "name": "Cuesta de Moyano",
+    "lat": 40.409297,
+    "lon": -3.691987,
+    "total_bases": 24
+  },
+  {
+    "id": 87,
+    "number": "82",
+    "name": "Niño Jesús",
+    "lat": 40.4084556,
+    "lon": -3.6697526,
+    "total_bases": 24
+  },
+  {
+    "id": 88,
+    "number": "83",
+    "name": "Pío Baroja",
+    "lat": 40.4132995,
+    "lon": -3.6745323,
+    "total_bases": 24
+  },
+  {
+    "id": 89,
+    "number": "84",
+    "name": "Valderribas",
+    "lat": 40.4032501,
+    "lon": -3.6726019,
+    "total_bases": 24
+  },
+  {
+    "id": 90,
+    "number": "85",
+    "name": "Puerta de Madrid",
+    "lat": 40.421501,
+    "lon": -3.680008,
+    "total_bases": 27
+  },
+  {
+    "id": 91,
+    "number": "86",
+    "name": "Cibeles",
+    "lat": 40.4186516,
+    "lon": -3.6933498,
+    "total_bases": 21
+  },
+  {
+    "id": 92,
+    "number": "87",
+    "name": "Ayala",
+    "lat": 40.427736,
+    "lon": -3.6832566,
+    "total_bases": 24
+  },
+  {
+    "id": 93,
+    "number": "88",
+    "name": "Embajada de Italia",
+    "lat": 40.4313576,
+    "lon": -3.6838303,
+    "total_bases": 24
+  },
+  {
+    "id": 94,
+    "number": "89",
+    "name": "Conde Peñalver",
+    "lat": 40.4272582,
+    "lon": -3.6752024,
+    "total_bases": 24
+  },
+  {
+    "id": 95,
+    "number": "90",
+    "name": "General Pardiñas",
+    "lat": 40.4250361,
+    "lon": -3.6837876,
+    "total_bases": 30
+  },
+  {
+    "id": 96,
+    "number": "91",
+    "name": "Príncipe de Vergara",
+    "lat": 40.426134,
+    "lon": -3.6787441,
+    "total_bases": 24
+  },
+  {
+    "id": 97,
+    "number": "92",
+    "name": "Claudio Coello",
+    "lat": 40.4262945,
+    "lon": -3.6865463,
+    "total_bases": 24
+  },
+  {
+    "id": 98,
+    "number": "93",
+    "name": "Plaza de Colón",
+    "lat": 40.4257046,
+    "lon": -3.6893698,
+    "total_bases": 24
+  },
+  {
+    "id": 99,
+    "number": "94",
+    "name": "Biblioteca Nacional",
+    "lat": 40.4232153,
+    "lon": -3.690756,
+    "total_bases": 21
+  },
+  {
+    "id": 100,
+    "number": "95",
+    "name": "Villanueva",
+    "lat": 40.4226584,
+    "lon": -3.6870548,
+    "total_bases": 24
+  },
+  {
+    "id": 101,
+    "number": "96",
+    "name": "Castelló",
+    "lat": 40.422064,
+    "lon": -3.6821793,
+    "total_bases": 27
+  },
+  {
+    "id": 102,
+    "number": "97",
+    "name": "Alcalá",
+    "lat": 40.4222969,
+    "lon": -3.6805189,
+    "total_bases": 27
+  },
+  {
+    "id": 103,
+    "number": "98",
+    "name": "Plaza de Felipe II",
+    "lat": 40.4239447,
+    "lon": -3.6758383,
+    "total_bases": 24
+  },
+  {
+    "id": 104,
+    "number": "99",
+    "name": "Alcántara",
+    "lat": 40.4261851,
+    "lon": -3.6738714,
+    "total_bases": 24
+  },
+  {
+    "id": 105,
+    "number": "100",
+    "name": "Palacio de Deportes",
+    "lat": 40.42478,
+    "lon": -3.67384,
+    "total_bases": 24
+  },
+  {
+    "id": 106,
+    "number": "101",
+    "name": "Jorge Juan",
+    "lat": 40.4231526,
+    "lon": -3.6691524,
+    "total_bases": 24
+  },
+  {
+    "id": 107,
+    "number": "102",
+    "name": "Velázquez",
+    "lat": 40.4211802,
+    "lon": -3.6840229,
+    "total_bases": 24
+  },
+  {
+    "id": 108,
+    "number": "103",
+    "name": "Ortega y Gasset",
+    "lat": 40.43037,
+    "lon": -3.68653,
+    "total_bases": 24
+  },
+  {
+    "id": 109,
+    "number": "104",
+    "name": "Castellana",
+    "lat": 40.42677,
+    "lon": -3.68958,
+    "total_bases": 21
+  },
+  {
+    "id": 110,
+    "number": "105",
+    "name": "Serrano",
+    "lat": 40.42699,
+    "lon": -3.68745,
+    "total_bases": 24
+  },
+  {
+    "id": 111,
+    "number": "106a",
+    "name": "Colón A",
+    "lat": 40.4251002,
+    "lon": -3.6877227,
+    "total_bases": 18
+  },
+  {
+    "id": 112,
+    "number": "106b",
+    "name": "Colón B",
+    "lat": 40.424963,
+    "lon": -3.687745,
+    "total_bases": 18
+  },
+  {
+    "id": 113,
+    "number": "107",
+    "name": "Columela",
+    "lat": 40.4215246,
+    "lon": -3.6884369,
+    "total_bases": 24
+  },
+  {
+    "id": 114,
+    "number": "108",
+    "name": "Mártires Concepcionistas",
+    "lat": 40.4273005,
+    "lon": -3.6706024,
+    "total_bases": 27
+  },
+  {
+    "id": 115,
+    "number": "109",
+    "name": "Marqués de Salamanca",
+    "lat": 40.4300481,
+    "lon": -3.6816402,
+    "total_bases": 24
+  },
+  {
+    "id": 116,
+    "number": "110",
+    "name": "Moncloa",
+    "lat": 40.4347895,
+    "lon": -3.7200845,
+    "total_bases": 24
+  },
+  {
+    "id": 117,
+    "number": "111a",
+    "name": "Arcipreste de Hita A",
+    "lat": 40.4337322,
+    "lon": -3.7175435,
+    "total_bases": 24
+  },
+  {
+    "id": 118,
+    "number": "111b",
+    "name": "Arcipreste de Hita B",
+    "lat": 40.4341006,
+    "lon": -3.7179687,
+    "total_bases": 24
+  },
+  {
+    "id": 119,
+    "number": "112",
+    "name": "Paseo de Moret",
+    "lat": 40.4325991,
+    "lon": -3.7246532,
+    "total_bases": 24
+  },
+  {
+    "id": 120,
+    "number": "113",
+    "name": "Pintor Rosales",
+    "lat": 40.427657,
+    "lon": -3.7205129,
+    "total_bases": 24
+  },
+  {
+    "id": 121,
+    "number": "114",
+    "name": "Quintana",
+    "lat": 40.4277456,
+    "lon": -3.7174158,
+    "total_bases": 24
+  },
+  {
+    "id": 122,
+    "number": "115",
+    "name": "Ferraz",
+    "lat": 40.4253944,
+    "lon": -3.7170448,
+    "total_bases": 24
+  },
+  {
+    "id": 123,
+    "number": "116a",
+    "name": "Plaza de España A",
+    "lat": 40.42402,
+    "lon": -3.711603,
+    "total_bases": 24
+  },
+  {
+    "id": 124,
+    "number": "116b",
+    "name": "Plaza de España B",
+    "lat": 40.42412,
+    "lon": -3.711703,
+    "total_bases": 24
+  },
+  {
+    "id": 125,
+    "number": "117",
+    "name": "Altamirano",
+    "lat": 40.4309797,
+    "lon": -3.7188898,
+    "total_bases": 24
+  },
+  {
+    "id": 126,
+    "number": "118",
+    "name": "Juan Martín",
+    "lat": 40.400781,
+    "lon": -3.6882407,
+    "total_bases": 24
+  },
+  {
+    "id": 127,
+    "number": "119",
+    "name": "Méndez Álvaro",
+    "lat": 40.4013216,
+    "lon": -3.6863218,
+    "total_bases": 24
+  },
+  {
+    "id": 128,
+    "number": "120",
+    "name": "Palos de la Frontera",
+    "lat": 40.4032208,
+    "lon": -3.6944768,
+    "total_bases": 24
+  },
+  {
+    "id": 129,
+    "number": "121",
+    "name": "Santa María de la Cabeza",
+    "lat": 40.4017926,
+    "lon": -3.6987665,
+    "total_bases": 24
+  },
+  {
+    "id": 130,
+    "number": "122",
+    "name": "Santa Engracia 14",
+    "lat": 40.4291992,
+    "lon": -3.6967169,
+    "total_bases": 24
+  },
+  {
+    "id": 131,
+    "number": "123",
+    "name": "Guzmán el Bueno",
+    "lat": 40.4306458,
+    "lon": -3.7133412,
+    "total_bases": 24
+  },
+  {
+    "id": 132,
+    "number": "161",
+    "name": "Paseo de la Florida",
+    "lat": 40.4219665,
+    "lon": -3.7224983,
+    "total_bases": 27
+  },
+  {
+    "id": 133,
+    "number": "162",
+    "name": "Metro Pirámides",
+    "lat": 40.4034076,
+    "lon": -3.7108108,
+    "total_bases": 24
+  },
+  {
+    "id": 134,
+    "number": "163",
+    "name": "Paseo de la Esperanza",
+    "lat": 40.4035988,
+    "lon": -3.7064516,
+    "total_bases": 21
+  },
+  {
+    "id": 135,
+    "number": "165",
+    "name": "Entrada Matadero",
+    "lat": 40.3928821,
+    "lon": -3.6975708,
+    "total_bases": 27
+  },
+  {
+    "id": 136,
+    "number": "164",
+    "name": "Paseo de las Delicias",
+    "lat": 40.3972616,
+    "lon": -3.6945025,
+    "total_bases": 24
+  },
+  {
+    "id": 137,
+    "number": "157",
+    "name": "Castellana 164",
+    "lat": 40.4591366,
+    "lon": -3.6894151,
+    "total_bases": 24
+  },
+  {
+    "id": 138,
+    "number": "158",
+    "name": "Alberto Alcocer",
+    "lat": 40.4585318,
+    "lon": -3.684715,
+    "total_bases": 24
+  },
+  {
+    "id": 139,
+    "number": "155",
+    "name": "San Germán 57",
+    "lat": 40.4572824,
+    "lon": -3.7009675,
+    "total_bases": 24
+  },
+  {
+    "id": 140,
+    "number": "156",
+    "name": "Sor Ángela de la Cruz",
+    "lat": 40.4592351,
+    "lon": -3.691533,
+    "total_bases": 24
+  },
+  {
+    "id": 141,
+    "number": "154",
+    "name": "Orense 36",
+    "lat": 40.4548456,
+    "lon": -3.6946218,
+    "total_bases": 24
+  },
+  {
+    "id": 142,
+    "number": "152",
+    "name": "General Perón 1",
+    "lat": 40.4527164,
+    "lon": -3.6990077,
+    "total_bases": 24
+  },
+  {
+    "id": 143,
+    "number": "153",
+    "name": "General Perón con Poeta Joan Maragall",
+    "lat": 40.4522454,
+    "lon": -3.693085,
+    "total_bases": 24
+  },
+  {
+    "id": 144,
+    "number": "148",
+    "name": "Serrano 210",
+    "lat": 40.4510188,
+    "lon": -3.6817962,
+    "total_bases": 24
+  },
+  {
+    "id": 145,
+    "number": "151",
+    "name": "Orense 12",
+    "lat": 40.4489101,
+    "lon": -3.6952943,
+    "total_bases": 24
+  },
+  {
+    "id": 146,
+    "number": "149",
+    "name": "Paseo de la Habana 42",
+    "lat": 40.4498613,
+    "lon": -3.6881689,
+    "total_bases": 24
+  },
+  {
+    "id": 147,
+    "number": "150",
+    "name": "Castellana frente a Hermanos Pinzón",
+    "lat": 40.4488924,
+    "lon": -3.6905604,
+    "total_bases": 24
+  },
+  {
+    "id": 148,
+    "number": "147",
+    "name": "Doctor Arce 45",
+    "lat": 40.4483269,
+    "lon": -3.6797296,
+    "total_bases": 24
+  },
+  {
+    "id": 149,
+    "number": "132",
+    "name": "Glorieta de los Cuatro Caminos",
+    "lat": 40.4463667,
+    "lon": -3.7036675,
+    "total_bases": 24
+  },
+  {
+    "id": 150,
+    "number": "133",
+    "name": "Raimundo Fernández",
+    "lat": 40.447125,
+    "lon": -3.7001669,
+    "total_bases": 24
+  },
+  {
+    "id": 151,
+    "number": "136",
+    "name": "Castellana 106",
+    "lat": 40.4453307,
+    "lon": -3.690861,
+    "total_bases": 24
+  },
+  {
+    "id": 152,
+    "number": "137",
+    "name": "Plaza de la República Argentina",
+    "lat": 40.445411,
+    "lon": -3.6853312,
+    "total_bases": 24
+  },
+  {
+    "id": 153,
+    "number": "134",
+    "name": "Agustín de Betancourt",
+    "lat": 40.4440297,
+    "lon": -3.6956047,
+    "total_bases": 24
+  },
+  {
+    "id": 154,
+    "number": "138",
+    "name": "Paseo de la Castellana con Raimundo Fernández",
+    "lat": 40.4457414,
+    "lon": -3.6917932,
+    "total_bases": 24
+  },
+  {
+    "id": 155,
+    "number": "146",
+    "name": "María Francisca 1",
+    "lat": 40.4442258,
+    "lon": -3.6787169,
+    "total_bases": 18
+  },
+  {
+    "id": 156,
+    "number": "131",
+    "name": "Bravo Murillo 44",
+    "lat": 40.4418402,
+    "lon": -3.7040344,
+    "total_bases": 24
+  },
+  {
+    "id": 157,
+    "number": "130",
+    "name": "Santa Engracia 127",
+    "lat": 40.44156,
+    "lon": -3.70164,
+    "total_bases": 20
+  },
+  {
+    "id": 158,
+    "number": "135",
+    "name": "Plaza de San Juan de la Cruz",
+    "lat": 40.4415974,
+    "lon": -3.6927821,
+    "total_bases": 24
+  },
+  {
+    "id": 159,
+    "number": "139",
+    "name": "José Gutiérrez Abascal ",
+    "lat": 40.4396792,
+    "lon": -3.6907784,
+    "total_bases": 24
+  },
+  {
+    "id": 160,
+    "number": "128",
+    "name": "Cea Bermúdez",
+    "lat": 40.438994,
+    "lon": -3.7154329,
+    "total_bases": 27
+  },
+  {
+    "id": 161,
+    "number": "129",
+    "name": "José Abascal",
+    "lat": 40.4383865,
+    "lon": -3.6982353,
+    "total_bases": 24
+  },
+  {
+    "id": 162,
+    "number": "140",
+    "name": "Velázquez 130",
+    "lat": 40.4385127,
+    "lon": -3.6831578,
+    "total_bases": 27
+  },
+  {
+    "id": 163,
+    "number": "126",
+    "name": "General Álvarez de Castro",
+    "lat": 40.4344731,
+    "lon": -3.7015686,
+    "total_bases": 24
+  },
+  {
+    "id": 164,
+    "number": "125",
+    "name": "General Martínez Campos ",
+    "lat": 40.435285,
+    "lon": -3.6948626,
+    "total_bases": 24
+  },
+  {
+    "id": 165,
+    "number": "141",
+    "name": "Paseo de la Castellana - Glorieta de Emilio Castelar",
+    "lat": 40.4355143,
+    "lon": -3.6892368,
+    "total_bases": 12
+  },
+  {
+    "id": 166,
+    "number": "143",
+    "name": "Diego de León 52",
+    "lat": 40.4345973,
+    "lon": -3.678492,
+    "total_bases": 24
+  },
+  {
+    "id": 167,
+    "number": "142",
+    "name": "Castellana 42",
+    "lat": 40.4334087,
+    "lon": -3.6879154,
+    "total_bases": 24
+  },
+  {
+    "id": 168,
+    "number": "127",
+    "name": "Fernando el Católico",
+    "lat": 40.4338516,
+    "lon": -3.708439,
+    "total_bases": 24
+  },
+  {
+    "id": 169,
+    "number": "124",
+    "name": "Manuel Silvela",
+    "lat": 40.4309524,
+    "lon": -3.6993465,
+    "total_bases": 24
+  },
+  {
+    "id": 170,
+    "number": "144",
+    "name": "Juan Bravo 50",
+    "lat": 40.4323655,
+    "lon": -3.6758555,
+    "total_bases": 24
+  },
+  {
+    "id": 171,
+    "number": "145",
+    "name": "Ortega y Gasset 87",
+    "lat": 40.429887,
+    "lon": -3.6712823,
+    "total_bases": 24
+  },
+  {
+    "id": 172,
+    "number": "160",
+    "name": "Colombia",
+    "lat": 40.4572466,
+    "lon": -3.6763439,
+    "total_bases": 24
+  },
+  {
+    "id": 173,
+    "number": "159",
+    "name": "Paseo de la Habana 63",
+    "lat": 40.4543852,
+    "lon": -3.6835926,
+    "total_bases": 24
+  },
+  {
+    "id": 174,
+    "number": "166",
+    "name": "Segovia 26",
+    "lat": 40.4138333,
+    "lon": -3.7135833,
+    "total_bases": 24
+  },
+  {
+    "id": 175,
+    "number": "167",
+    "name": "Segovia 45",
+    "lat": 40.413736,
+    "lon": -3.717487,
+    "total_bases": 24
+  },
+  {
+    "id": 176,
+    "number": "168",
+    "name": "Batalla del Salado",
+    "lat": 40.4044722,
+    "lon": -3.6959166,
+    "total_bases": 24
+  },
+  {
+    "id": 177,
+    "number": "169",
+    "name": "Pirámides",
+    "lat": 40.4016111,
+    "lon": -3.7138055,
+    "total_bases": 24
+  },
+  {
+    "id": 178,
+    "number": "170",
+    "name": "Paseo de la Esperanza",
+    "lat": 40.401,
+    "lon": -3.7043611,
+    "total_bases": 24
+  },
+  {
+    "id": 179,
+    "number": "171",
+    "name": "Embajadores-Cáceres",
+    "lat": 40.39975,
+    "lon": -3.6983888,
+    "total_bases": 24
+  },
+  {
+    "id": 180,
+    "number": "172",
+    "name": "Delicias",
+    "lat": 40.4008888,
+    "lon": -3.6935833,
+    "total_bases": 24
+  },
+  {
+    "id": 181,
+    "number": "173",
+    "name": "Puente Praga",
+    "lat": 40.3981798,
+    "lon": -3.7023918,
+    "total_bases": 24
+  },
+  {
+    "id": 182,
+    "number": "174",
+    "name": "Madrid Río-Yeserías",
+    "lat": 40.3974444,
+    "lon": -3.7065277,
+    "total_bases": 27
+  },
+  {
+    "id": 183,
+    "number": "175",
+    "name": "Jaime el Conquistador",
+    "lat": 40.3962222,
+    "lon": -3.6983055,
+    "total_bases": 21
+  },
+  {
+    "id": 184,
+    "number": "176",
+    "name": "Beata",
+    "lat": 40.39425,
+    "lon": -3.6937222,
+    "total_bases": 24
+  },
+  {
+    "id": 185,
+    "number": "177",
+    "name": "Legazpi",
+    "lat": 40.3914722,
+    "lon": -3.6941944,
+    "total_bases": 24
+  },
+  {
+    "id": 186,
+    "number": "178",
+    "name": "Junta Municipal Retiro",
+    "lat": 40.4029202,
+    "lon": -3.6788343,
+    "total_bases": 24
+  },
+  {
+    "id": 187,
+    "number": "179",
+    "name": "Puente de Vallecas",
+    "lat": 40.3979722,
+    "lon": -3.66925,
+    "total_bases": 24
+  },
+  {
+    "id": 188,
+    "number": "180",
+    "name": "Méndez Álvaro",
+    "lat": 40.3941388,
+    "lon": -3.6758888,
+    "total_bases": 24
+  },
+  {
+    "id": 189,
+    "number": "181",
+    "name": "Retiro-Ibiza",
+    "lat": 40.41825,
+    "lon": -3.6766111,
+    "total_bases": 27
+  },
+  {
+    "id": 190,
+    "number": "182",
+    "name": "Parque Roma",
+    "lat": 40.4186666,
+    "lon": -3.6657777,
+    "total_bases": 24
+  },
+  {
+    "id": 191,
+    "number": "183",
+    "name": "Doctor Esquerdo-Hermosilla",
+    "lat": 40.425635,
+    "lon": -3.669339,
+    "total_bases": 24
+  },
+  {
+    "id": 192,
+    "number": "184",
+    "name": "Marqués de Zafra",
+    "lat": 40.426,
+    "lon": -3.6653055,
+    "total_bases": 24
+  },
+  {
+    "id": 193,
+    "number": "185",
+    "name": "Quinta Fuente del Berro",
+    "lat": 40.4250833,
+    "lon": -3.6615277,
+    "total_bases": 24
+  },
+  {
+    "id": 194,
+    "number": "186",
+    "name": "General Pardiñas",
+    "lat": 40.4290555,
+    "lon": -3.6782777,
+    "total_bases": 24
+  },
+  {
+    "id": 195,
+    "number": "187",
+    "name": "Alcalá-Ventas",
+    "lat": 40.4301666,
+    "lon": -3.6638888,
+    "total_bases": 24
+  },
+  {
+    "id": 196,
+    "number": "188",
+    "name": "Puente de Ventas",
+    "lat": 40.4311944,
+    "lon": -3.6590555,
+    "total_bases": 27
+  },
+  {
+    "id": 197,
+    "number": "189",
+    "name": "Avenida Donostiarra",
+    "lat": 40.4351256,
+    "lon": -3.6554918,
+    "total_bases": 24
+  },
+  {
+    "id": 198,
+    "number": "190",
+    "name": "Velázquez-Diego de León",
+    "lat": 40.4343333,
+    "lon": -3.6835833,
+    "total_bases": 24
+  },
+  {
+    "id": 199,
+    "number": "191",
+    "name": "Diego de león",
+    "lat": 40.4346388,
+    "lon": -3.674,
+    "total_bases": 18
+  },
+  {
+    "id": 200,
+    "number": "192",
+    "name": "Avenida de los Toreros",
+    "lat": 40.4318611,
+    "lon": -3.6714166,
+    "total_bases": 27
+  },
+  {
+    "id": 201,
+    "number": "193",
+    "name": "Ventas",
+    "lat": 40.4324722,
+    "lon": -3.6655555,
+    "total_bases": 27
+  },
+  {
+    "id": 202,
+    "number": "194",
+    "name": "Avenida de América 2",
+    "lat": 40.43725,
+    "lon": -3.6772222,
+    "total_bases": 24
+  },
+  {
+    "id": 203,
+    "number": "195",
+    "name": "Avenida de América 1",
+    "lat": 40.4392222,
+    "lon": -3.6754444,
+    "total_bases": 24
+  },
+  {
+    "id": 204,
+    "number": "196",
+    "name": "Prosperidad",
+    "lat": 40.4441388,
+    "lon": -3.6751388,
+    "total_bases": 24
+  },
+  {
+    "id": 205,
+    "number": "197",
+    "name": "Parque Berlín",
+    "lat": 40.4515833,
+    "lon": -3.6780555,
+    "total_bases": 24
+  },
+  {
+    "id": 206,
+    "number": "198",
+    "name": "Rubén Darío",
+    "lat": 40.4331111,
+    "lon": -3.6915555,
+    "total_bases": 24
+  },
+  {
+    "id": 207,
+    "number": "199",
+    "name": "Fernando el Católico",
+    "lat": 40.4343611,
+    "lon": -3.7149166,
+    "total_bases": 27
+  },
+  {
+    "id": 208,
+    "number": "200",
+    "name": "Quevedo",
+    "lat": 40.4336944,
+    "lon": -3.7046666,
+    "total_bases": 24
+  },
+  {
+    "id": 209,
+    "number": "201",
+    "name": "Canal",
+    "lat": 40.4386944,
+    "lon": -3.7038333,
+    "total_bases": 24
+  },
+  {
+    "id": 210,
+    "number": "202",
+    "name": "Parque Santander",
+    "lat": 40.4411388,
+    "lon": -3.7080833,
+    "total_bases": 24
+  },
+  {
+    "id": 211,
+    "number": "203",
+    "name": "San Francisco de Sales",
+    "lat": 40.44175,
+    "lon": -3.7144722,
+    "total_bases": 24
+  },
+  {
+    "id": 212,
+    "number": "204",
+    "name": "Cuatro Caminos 2",
+    "lat": 40.4476666,
+    "lon": -3.7041666,
+    "total_bases": 24
+  },
+  {
+    "id": 213,
+    "number": "205",
+    "name": "Estrecho",
+    "lat": 40.4535,
+    "lon": -3.7032777,
+    "total_bases": 24
+  },
+  {
+    "id": 214,
+    "number": "206",
+    "name": "Metro Tetuán",
+    "lat": 40.4607502,
+    "lon": -3.6989925,
+    "total_bases": 24
+  },
+  {
+    "id": 215,
+    "number": "207",
+    "name": "Remonta",
+    "lat": 40.4630277,
+    "lon": -3.6973333,
+    "total_bases": 18
+  },
+  {
+    "id": 216,
+    "number": "208",
+    "name": "Plaza de Castilla",
+    "lat": 40.4663611,
+    "lon": -3.6886388,
+    "total_bases": 24
+  },
+  {
+    "id": 217,
+    "number": "209",
+    "name": "Plaza de Castilla 2",
+    "lat": 40.4656779,
+    "lon": -3.6887722,
+    "total_bases": 24
+  },
+  {
+    "id": 218,
+    "number": "210",
+    "name": "Tres Cruces",
+    "lat": 40.419674,
+    "lon": -3.7026735,
+    "total_bases": 27
+  },
+  {
+    "id": 219,
+    "number": "211",
+    "name": "Desengaño",
+    "lat": 40.42059,
+    "lon": -3.70239,
+    "total_bases": 24
+  },
+  {
+    "id": 220,
+    "number": "212",
+    "name": "Marqués de Vadillo",
+    "lat": 40.398247,
+    "lon": -3.716591,
+    "total_bases": 24
+  },
+  {
+    "id": 221,
+    "number": "213",
+    "name": "Glorieta de Cádiz",
+    "lat": 40.38895,
+    "lon": -3.70017,
+    "total_bases": 24
+  },
+  {
+    "id": 222,
+    "number": "214",
+    "name": "Condesa de Venadito",
+    "lat": 40.44315,
+    "lon": -3.65741,
+    "total_bases": 24
+  },
+  {
+    "id": 223,
+    "number": "215",
+    "name": "Gutierre de Cetina",
+    "lat": 40.429706,
+    "lon": -3.640994,
+    "total_bases": 24
+  },
+  {
+    "id": 224,
+    "number": "216",
+    "name": "Puerta del Ángel",
+    "lat": 40.413764,
+    "lon": -3.728318,
+    "total_bases": 24
+  },
+  {
+    "id": 225,
+    "number": "217",
+    "name": "Pedro Rico",
+    "lat": 40.481086,
+    "lon": -3.688463,
+    "total_bases": 24
+  },
+  {
+    "id": 226,
+    "number": "218",
+    "name": "Camino Vinateros",
+    "lat": 40.41053,
+    "lon": -3.65779,
+    "total_bases": 24
+  },
+  {
+    "id": 227,
+    "number": "219",
+    "name": "Marroquina",
+    "lat": 40.408264,
+    "lon": -3.646697,
+    "total_bases": 24
+  },
+  {
+    "id": 228,
+    "number": "220",
+    "name": "Plaza del Encuentro",
+    "lat": 40.40617,
+    "lon": -3.65122,
+    "total_bases": 24
+  },
+  {
+    "id": 229,
+    "number": "221",
+    "name": "Pavones",
+    "lat": 40.400368,
+    "lon": -3.634587,
+    "total_bases": 24
+  },
+  {
+    "id": 230,
+    "number": "222",
+    "name": "Antonio López",
+    "lat": 40.3917871,
+    "lon": -3.7026789,
+    "total_bases": 24
+  },
+  {
+    "id": 231,
+    "number": "223",
+    "name": "Ermita Santo",
+    "lat": 40.406837862773465,
+    "lon": -3.7244893989507686,
+    "total_bases": 24
+  },
+  {
+    "id": 232,
+    "number": "224",
+    "name": "Caramuel",
+    "lat": 40.40913630273305,
+    "lon": -3.728533714316331,
+    "total_bases": 24
+  },
+  {
+    "id": 233,
+    "number": "225",
+    "name": "Doctor Lozano",
+    "lat": 40.40248333540473,
+    "lon": -3.660188083470652,
+    "total_bases": 24
+  },
+  {
+    "id": 234,
+    "number": "226",
+    "name": "Sierra Toledana",
+    "lat": 40.39901531507069,
+    "lon": -3.6607768678037744,
+    "total_bases": 24
+  },
+  {
+    "id": 235,
+    "number": "228",
+    "name": "San Delfín",
+    "lat": 40.39440607959559,
+    "lon": -3.7080429728445563,
+    "total_bases": 24
+  },
+  {
+    "id": 236,
+    "number": "227",
+    "name": "Concordia",
+    "lat": 40.39382977920336,
+    "lon": -3.6659362429356372,
+    "total_bases": 24
+  },
+  {
+    "id": 237,
+    "number": "229",
+    "name": "C.D. Concepción",
+    "lat": 40.43715089959262,
+    "lon": -3.64835857929032,
+    "total_bases": 24
+  },
+  {
+    "id": 238,
+    "number": "230",
+    "name": "Carlota O’Neill",
+    "lat": 40.44370542379883,
+    "lon": -3.648958444298144,
+    "total_bases": 24
+  },
+  {
+    "id": 239,
+    "number": "231",
+    "name": "Derechos Humanos",
+    "lat": 40.43965673033275,
+    "lon": -3.6557656204708775,
+    "total_bases": 24
+  },
+  {
+    "id": 240,
+    "number": "232",
+    "name": "José María Pereda",
+    "lat": 40.43272086245887,
+    "lon": -3.6485306152875148,
+    "total_bases": 24
+  },
+  {
+    "id": 241,
+    "number": "233",
+    "name": "Marqués de Corbera 12",
+    "lat": 40.422962108947424,
+    "lon": -3.6555552857442697,
+    "total_bases": 24
+  },
+  {
+    "id": 242,
+    "number": "234",
+    "name": "Marqués de Corbera 52",
+    "lat": 40.426207143200884,
+    "lon": -3.651034981803642,
+    "total_bases": 24
+  },
+  {
+    "id": 243,
+    "number": "235",
+    "name": "Embajadores 191",
+    "lat": 40.389258643579105,
+    "lon": -3.6903589643353483,
+    "total_bases": 24
+  },
+  {
+    "id": 244,
+    "number": "236",
+    "name": "Paseo Imperial",
+    "lat": 40.40765396169372,
+    "lon": -3.7172213778842007,
+    "total_bases": 24
+  },
+  {
+    "id": 245,
+    "number": "237",
+    "name": "Pablo Iglesias",
+    "lat": 40.451333,
+    "lon": -3.710525,
+    "total_bases": 24
+  },
+  {
+    "id": 246,
+    "number": "238",
+    "name": "San Germán 5",
+    "lat": 40.45619382579544,
+    "lon": -3.6929376751795306,
+    "total_bases": 24
+  },
+  {
+    "id": 247,
+    "number": "239",
+    "name": "Francos Rodríguez",
+    "lat": 40.45673408797698,
+    "lon": -3.708002730875242,
+    "total_bases": 24
+  },
+  {
+    "id": 248,
+    "number": "240",
+    "name": "Avenida Brasilia",
+    "lat": 40.43666,
+    "lon": -3.66096,
+    "total_bases": 24
+  },
+  {
+    "id": 249,
+    "number": "241",
+    "name": "Camilo José Cela",
+    "lat": 40.4378,
+    "lon": -3.66779,
+    "total_bases": 24
+  },
+  {
+    "id": 250,
+    "number": "242",
+    "name": "Avenida Bruselas",
+    "lat": 40.43865,
+    "lon": -3.66301,
+    "total_bases": 24
+  },
+  {
+    "id": 251,
+    "number": "243",
+    "name": "Cartagena",
+    "lat": 40.43503,
+    "lon": -3.67012,
+    "total_bases": 24
+  },
+  {
+    "id": 252,
+    "number": "244",
+    "name": "Hospital Clínico",
+    "lat": 40.44003,
+    "lon": -3.71757,
+    "total_bases": 24
+  },
+  {
+    "id": 253,
+    "number": "245",
+    "name": "Galileo",
+    "lat": 40.4364,
+    "lon": -3.71019,
+    "total_bases": 24
+  },
+  {
+    "id": 254,
+    "number": "246",
+    "name": "Santa Engracia 87",
+    "lat": 40.43604,
+    "lon": -3.69928,
+    "total_bases": 24
+  },
+  {
+    "id": 256,
+    "number": "248",
+    "name": "Torre Cepsa",
+    "lat": 40.47435,
+    "lon": -3.68797,
+    "total_bases": 24
+  },
+  {
+    "id": 257,
+    "number": "249",
+    "name": "Manuel Caldeiro",
+    "lat": 40.47938,
+    "lon": -3.68532,
+    "total_bases": 24
+  },
+  {
+    "id": 258,
+    "number": "250",
+    "name": "Serrano 113",
+    "lat": 40.44106,
+    "lon": -3.68609,
+    "total_bases": 24
+  },
+  {
+    "id": 259,
+    "number": "251",
+    "name": "Corazón de María",
+    "lat": 40.44421,
+    "lon": -3.66683,
+    "total_bases": 24
+  },
+  {
+    "id": 260,
+    "number": "252",
+    "name": "Chamartín",
+    "lat": 40.4716,
+    "lon": -3.68391,
+    "total_bases": 24
+  },
+  {
+    "id": 261,
+    "number": "253",
+    "name": "Doctor Fleming",
+    "lat": 40.45546,
+    "lon": -3.68844,
+    "total_bases": 21
+  },
+  {
+    "id": 262,
+    "number": "254",
+    "name": "Pío XII",
+    "lat": 40.46041,
+    "lon": -3.67712,
+    "total_bases": 24
+  },
+  {
+    "id": 263,
+    "number": "255",
+    "name": "López Pozas",
+    "lat": 40.46361,
+    "lon": -3.68514,
+    "total_bases": 24
+  },
+  {
+    "id": 264,
+    "number": "256",
+    "name": "Reina Victoria",
+    "lat": 40.44635,
+    "lon": -3.71383,
+    "total_bases": 24
+  },
+  {
+    "id": 265,
+    "number": "257",
+    "name": "INEF",
+    "lat": 40.43896,
+    "lon": -3.72997,
+    "total_bases": 24
+  },
+  {
+    "id": 266,
+    "number": "258",
+    "name": "Ciudad Universitaria 1",
+    "lat": 40.44375,
+    "lon": -3.72699,
+    "total_bases": 24
+  },
+  {
+    "id": 267,
+    "number": "259",
+    "name": "Ciudad Universitaria 2",
+    "lat": 40.44342,
+    "lon": -3.72693,
+    "total_bases": 24
+  },
+  {
+    "id": 268,
+    "number": "260",
+    "name": "Facultad Biología",
+    "lat": 40.4483322,
+    "lon": -3.7272945,
+    "total_bases": 24
+  },
+  {
+    "id": 269,
+    "number": "261",
+    "name": "Facultad Derecho",
+    "lat": 40.45109,
+    "lon": -3.72937,
+    "total_bases": 24
+  },
+  {
+    "id": 270,
+    "number": "247",
+    "name": "Zurbano",
+    "lat": 40.43837,
+    "lon": -3.69281,
+    "total_bases": 24
+  }
+]

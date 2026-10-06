@@ -1,0 +1,15 @@
+.histogram-container {
+  width: 100%;
+  position: relative;
+}
+
+.histogram-container svg {
+  display: block;
+  width: 100%;
+}
+
+.brush .selection {
+  fill: rgba(27, 42, 74, 0.15);
+  stroke: #1B2A4A;
+  stroke-width: 1;
+}

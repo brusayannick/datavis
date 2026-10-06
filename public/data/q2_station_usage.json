@@ -1,0 +1,2642 @@
+[
+  {
+    "stationId": 43,
+    "name": "Plaza de la Cebada",
+    "number": "39",
+    "lat": 40.4112744,
+    "lon": -3.7088337,
+    "departures": 47227,
+    "arrivals": 47694,
+    "total": 94921
+  },
+  {
+    "stationId": 57,
+    "name": "Plaza de Lavapiés",
+    "number": "53",
+    "lat": 40.4083061,
+    "lon": -3.7007111,
+    "departures": 44358,
+    "arrivals": 43728,
+    "total": 88086
+  },
+  {
+    "stationId": 175,
+    "name": "Segovia 45",
+    "number": "167",
+    "lat": 40.413736,
+    "lon": -3.717487,
+    "departures": 39024,
+    "arrivals": 39754,
+    "total": 78778
+  },
+  {
+    "stationId": 220,
+    "name": "Marqués de Vadillo",
+    "number": "212",
+    "lat": 40.398247,
+    "lon": -3.716591,
+    "departures": 36864,
+    "arrivals": 40274,
+    "total": 77138
+  },
+  {
+    "stationId": 208,
+    "name": "Quevedo",
+    "number": "200",
+    "lat": 40.4336944,
+    "lon": -3.7046666,
+    "departures": 34660,
+    "arrivals": 35361,
+    "total": 70021
+  },
+  {
+    "stationId": 90,
+    "name": "Puerta de Madrid",
+    "number": "85",
+    "lat": 40.421501,
+    "lon": -3.680008,
+    "departures": 34730,
+    "arrivals": 33613,
+    "total": 68343
+  },
+  {
+    "stationId": 45,
+    "name": "Antón Martín",
+    "number": "41",
+    "lat": 40.4122047,
+    "lon": -3.6991147,
+    "departures": 33333,
+    "arrivals": 33468,
+    "total": 66801
+  },
+  {
+    "stationId": 132,
+    "name": "Paseo de la Florida",
+    "number": "161",
+    "lat": 40.4219665,
+    "lon": -3.7224983,
+    "departures": 30563,
+    "arrivals": 34050,
+    "total": 64613
+  },
+  {
+    "stationId": 49,
+    "name": "Puerta de Toledo",
+    "number": "45",
+    "lat": 40.4070358,
+    "lon": -3.7110513,
+    "departures": 31879,
+    "arrivals": 32566,
+    "total": 64445
+  },
+  {
+    "stationId": 41,
+    "name": "Plaza de San Francisco",
+    "number": "37",
+    "lat": 40.4108,
+    "lon": -3.714113,
+    "departures": 30817,
+    "arrivals": 31877,
+    "total": 62694
+  },
+  {
+    "stationId": 224,
+    "name": "Puerta del Ángel",
+    "number": "216",
+    "lat": 40.413764,
+    "lon": -3.728318,
+    "departures": 29124,
+    "arrivals": 32526,
+    "total": 61650
+  },
+  {
+    "stationId": 64,
+    "name": "Plaza de la Independencia",
+    "number": "60",
+    "lat": 40.419752,
+    "lon": -3.688398,
+    "departures": 30339,
+    "arrivals": 30471,
+    "total": 60810
+  },
+  {
+    "stationId": 62,
+    "name": "Augusto Figueroa",
+    "number": "58",
+    "lat": 40.4222862,
+    "lon": -3.697895,
+    "departures": 30185,
+    "arrivals": 30394,
+    "total": 60579
+  },
+  {
+    "stationId": 13,
+    "name": "San Hermenegildo",
+    "number": "12",
+    "lat": 40.4284246,
+    "lon": -3.7061931,
+    "departures": 30159,
+    "arrivals": 29978,
+    "total": 60137
+  },
+  {
+    "stationId": 254,
+    "name": "Santa Engracia 87",
+    "number": "246",
+    "lat": 40.43604,
+    "lon": -3.69928,
+    "departures": 29630,
+    "arrivals": 29577,
+    "total": 59207
+  },
+  {
+    "stationId": 149,
+    "name": "Glorieta de los Cuatro Caminos",
+    "number": "132",
+    "lat": 40.4463667,
+    "lon": -3.7036675,
+    "departures": 29116,
+    "arrivals": 28434,
+    "total": 57550
+  },
+  {
+    "stationId": 129,
+    "name": "Santa María de la Cabeza",
+    "number": "121",
+    "lat": 40.4017926,
+    "lon": -3.6987665,
+    "departures": 27977,
+    "arrivals": 29110,
+    "total": 57087
+  },
+  {
+    "stationId": 59,
+    "name": "Plaza de San Ildefonso",
+    "number": "55",
+    "lat": 40.4239757,
+    "lon": -3.7020842,
+    "departures": 28102,
+    "arrivals": 28216,
+    "total": 56318
+  },
+  {
+    "stationId": 9,
+    "name": "Alonso Martínez",
+    "number": "8",
+    "lat": 40.4278682,
+    "lon": -3.6954403,
+    "departures": 27998,
+    "arrivals": 28031,
+    "total": 56029
+  },
+  {
+    "stationId": 58,
+    "name": "Barceló",
+    "number": "54",
+    "lat": 40.4266828,
+    "lon": -3.700423,
+    "departures": 27475,
+    "arrivals": 27451,
+    "total": 54926
+  },
+  {
+    "stationId": 204,
+    "name": "Prosperidad",
+    "number": "196",
+    "lat": 40.4441388,
+    "lon": -3.6751388,
+    "departures": 27432,
+    "arrivals": 27458,
+    "total": 54890
+  },
+  {
+    "stationId": 46,
+    "name": "Santa Isabel",
+    "number": "42",
+    "lat": 40.4107085,
+    "lon": -3.6982318,
+    "departures": 27164,
+    "arrivals": 27369,
+    "total": 54533
+  },
+  {
+    "stationId": 30,
+    "name": "Plaza de las Salesas",
+    "number": "26",
+    "lat": 40.423855,
+    "lon": -3.694475,
+    "departures": 27207,
+    "arrivals": 27213,
+    "total": 54420
+  },
+  {
+    "stationId": 135,
+    "name": "Entrada Matadero",
+    "number": "165",
+    "lat": 40.3928821,
+    "lon": -3.6975708,
+    "departures": 25551,
+    "arrivals": 27577,
+    "total": 53128
+  },
+  {
+    "stationId": 19,
+    "name": "Plaza de Pedro Zerolo",
+    "number": "18",
+    "lat": 40.4207773,
+    "lon": -3.6996502,
+    "departures": 26293,
+    "arrivals": 26410,
+    "total": 52703
+  },
+  {
+    "stationId": 157,
+    "name": "Santa Engracia 127",
+    "number": "130",
+    "lat": 40.44156,
+    "lon": -3.70164,
+    "departures": 26226,
+    "arrivals": 26335,
+    "total": 52561
+  },
+  {
+    "stationId": 169,
+    "name": "Manuel Silvela",
+    "number": "124",
+    "lat": 40.4309524,
+    "lon": -3.6993465,
+    "departures": 26168,
+    "arrivals": 26236,
+    "total": 52404
+  },
+  {
+    "stationId": 52,
+    "name": "Embajadores 2",
+    "number": "48",
+    "lat": 40.4056107,
+    "lon": -3.7022591,
+    "departures": 26137,
+    "arrivals": 26111,
+    "total": 52248
+  },
+  {
+    "stationId": 83,
+    "name": "Puerta de Granada",
+    "number": "79",
+    "lat": 40.4051451,
+    "lon": -3.6803874,
+    "departures": 25341,
+    "arrivals": 26000,
+    "total": 51341
+  },
+  {
+    "stationId": 145,
+    "name": "Orense 12",
+    "number": "151",
+    "lat": 40.4489101,
+    "lon": -3.6952943,
+    "departures": 25546,
+    "arrivals": 25594,
+    "total": 51140
+  },
+  {
+    "stationId": 163,
+    "name": "General Álvarez de Castro",
+    "number": "126",
+    "lat": 40.4344731,
+    "lon": -3.7015686,
+    "departures": 25359,
+    "arrivals": 25535,
+    "total": 50894
+  },
+  {
+    "stationId": 168,
+    "name": "Fernando el Católico",
+    "number": "127",
+    "lat": 40.4338516,
+    "lon": -3.708439,
+    "departures": 24995,
+    "arrivals": 25514,
+    "total": 50509
+  },
+  {
+    "stationId": 170,
+    "name": "Juan Bravo 50",
+    "number": "144",
+    "lat": 40.4323655,
+    "lon": -3.6758555,
+    "departures": 24946,
+    "arrivals": 24815,
+    "total": 49761
+  },
+  {
+    "stationId": 189,
+    "name": "Retiro-Ibiza",
+    "number": "181",
+    "lat": 40.41825,
+    "lon": -3.6766111,
+    "departures": 25019,
+    "arrivals": 24478,
+    "total": 49497
+  },
+  {
+    "stationId": 42,
+    "name": "Plaza de los Carros",
+    "number": "38",
+    "lat": 40.4114041,
+    "lon": -3.7114762,
+    "departures": 24128,
+    "arrivals": 24910,
+    "total": 49038
+  },
+  {
+    "stationId": 244,
+    "name": "Paseo Imperial",
+    "number": "236",
+    "lat": 40.40765396169372,
+    "lon": -3.7172213778842007,
+    "departures": 24016,
+    "arrivals": 24660,
+    "total": 48676
+  },
+  {
+    "stationId": 79,
+    "name": "Menéndez Pelayo",
+    "number": "75",
+    "lat": 40.4082805,
+    "lon": -3.6784838,
+    "departures": 23553,
+    "arrivals": 24778,
+    "total": 48331
+  },
+  {
+    "stationId": 38,
+    "name": "Jacinto Benavente",
+    "number": "34",
+    "lat": 40.4146755,
+    "lon": -3.7036825,
+    "departures": 23809,
+    "arrivals": 23977,
+    "total": 47786
+  },
+  {
+    "stationId": 78,
+    "name": "Puerta del Pacífico ",
+    "number": "74",
+    "lat": 40.4117627,
+    "lon": -3.6766813,
+    "departures": 23425,
+    "arrivals": 23455,
+    "total": 46880
+  },
+  {
+    "stationId": 253,
+    "name": "Galileo",
+    "number": "245",
+    "lat": 40.4364,
+    "lon": -3.71019,
+    "departures": 22969,
+    "arrivals": 22865,
+    "total": 45834
+  },
+  {
+    "stationId": 232,
+    "name": "Caramuel",
+    "number": "224",
+    "lat": 40.40913630273305,
+    "lon": -3.728533714316331,
+    "departures": 21292,
+    "arrivals": 23345,
+    "total": 44637
+  },
+  {
+    "stationId": 179,
+    "name": "Embajadores-Cáceres",
+    "number": "171",
+    "lat": 40.39975,
+    "lon": -3.6983888,
+    "departures": 22066,
+    "arrivals": 22544,
+    "total": 44610
+  },
+  {
+    "stationId": 26,
+    "name": "Santo Domingo",
+    "number": "23",
+    "lat": 40.4202834,
+    "lon": -3.7081246,
+    "departures": 21630,
+    "arrivals": 21580,
+    "total": 43210
+  },
+  {
+    "stationId": 131,
+    "name": "Guzmán el Bueno",
+    "number": "123",
+    "lat": 40.4306458,
+    "lon": -3.7133412,
+    "departures": 21564,
+    "arrivals": 21635,
+    "total": 43199
+  },
+  {
+    "stationId": 6,
+    "name": "Fuencarral",
+    "number": "5",
+    "lat": 40.42852,
+    "lon": -3.70205,
+    "departures": 21728,
+    "arrivals": 21132,
+    "total": 42860
+  },
+  {
+    "stationId": 56,
+    "name": "Plaza de Santa Ana",
+    "number": "52",
+    "lat": 40.4144226,
+    "lon": -3.7007164,
+    "departures": 21102,
+    "arrivals": 21491,
+    "total": 42593
+  },
+  {
+    "stationId": 48,
+    "name": "Plaza de Nelson Mandela",
+    "number": "44",
+    "lat": 40.4097617,
+    "lon": -3.7040666,
+    "departures": 21031,
+    "arrivals": 21352,
+    "total": 42383
+  },
+  {
+    "stationId": 53,
+    "name": "Casa Encendida",
+    "number": "49",
+    "lat": 40.4060941,
+    "lon": -3.6992759,
+    "departures": 20818,
+    "arrivals": 21339,
+    "total": 42157
+  },
+  {
+    "stationId": 31,
+    "name": "Huertas",
+    "number": "27",
+    "lat": 40.4132798,
+    "lon": -3.6956178,
+    "departures": 21045,
+    "arrivals": 21101,
+    "total": 42146
+  },
+  {
+    "stationId": 103,
+    "name": "Plaza de Felipe II",
+    "number": "98",
+    "lat": 40.4239447,
+    "lon": -3.6758383,
+    "departures": 21218,
+    "arrivals": 20911,
+    "total": 42129
+  },
+  {
+    "stationId": 231,
+    "name": "Ermita Santo",
+    "number": "223",
+    "lat": 40.406837862773465,
+    "lon": -3.7244893989507686,
+    "departures": 20388,
+    "arrivals": 21709,
+    "total": 42097
+  },
+  {
+    "stationId": 136,
+    "name": "Paseo de las Delicias",
+    "number": "164",
+    "lat": 40.3972616,
+    "lon": -3.6945025,
+    "departures": 20941,
+    "arrivals": 20868,
+    "total": 41809
+  },
+  {
+    "stationId": 55,
+    "name": "Ronda de Atocha",
+    "number": "51",
+    "lat": 40.4075606,
+    "lon": -3.6935205,
+    "departures": 20663,
+    "arrivals": 20602,
+    "total": 41265
+  },
+  {
+    "stationId": 128,
+    "name": "Palos de la Frontera",
+    "number": "120",
+    "lat": 40.4032208,
+    "lon": -3.6944768,
+    "departures": 20191,
+    "arrivals": 20795,
+    "total": 40986
+  },
+  {
+    "stationId": 50,
+    "name": "Ribera de Curtidores",
+    "number": "46",
+    "lat": 40.4053153,
+    "lon": -3.7071259,
+    "departures": 20282,
+    "arrivals": 20610,
+    "total": 40892
+  },
+  {
+    "stationId": 65,
+    "name": "Narváez",
+    "number": "61",
+    "lat": 40.4213983,
+    "lon": -3.6752045,
+    "departures": 20465,
+    "arrivals": 20425,
+    "total": 40890
+  },
+  {
+    "stationId": 235,
+    "name": "San Delfín",
+    "number": "228",
+    "lat": 40.39440607959559,
+    "lon": -3.7080429728445563,
+    "departures": 19889,
+    "arrivals": 20890,
+    "total": 40779
+  },
+  {
+    "stationId": 74,
+    "name": "Puerta del Doce de Octubre",
+    "number": "70",
+    "lat": 40.4153053,
+    "lon": -3.6779232,
+    "departures": 20659,
+    "arrivals": 19980,
+    "total": 40639
+  },
+  {
+    "stationId": 186,
+    "name": "Junta Municipal Retiro",
+    "number": "178",
+    "lat": 40.4029202,
+    "lon": -3.6788343,
+    "departures": 19814,
+    "arrivals": 20781,
+    "total": 40595
+  },
+  {
+    "stationId": 221,
+    "name": "Glorieta de Cádiz",
+    "number": "213",
+    "lat": 40.38895,
+    "lon": -3.70017,
+    "departures": 19254,
+    "arrivals": 21044,
+    "total": 40298
+  },
+  {
+    "stationId": 84,
+    "name": "Atocha A",
+    "number": "80a",
+    "lat": 40.4075685,
+    "lon": -3.6902255,
+    "departures": 19759,
+    "arrivals": 20529,
+    "total": 40288
+  },
+  {
+    "stationId": 164,
+    "name": "General Martínez Campos ",
+    "number": "125",
+    "lat": 40.435285,
+    "lon": -3.6948626,
+    "departures": 20267,
+    "arrivals": 19838,
+    "total": 40105
+  },
+  {
+    "stationId": 17,
+    "name": "San Bernardo",
+    "number": "16",
+    "lat": 40.4230721,
+    "lon": -3.7075065,
+    "departures": 20033,
+    "arrivals": 20012,
+    "total": 40045
+  },
+  {
+    "stationId": 178,
+    "name": "Paseo de la Esperanza",
+    "number": "170",
+    "lat": 40.401,
+    "lon": -3.7043611,
+    "departures": 19768,
+    "arrivals": 19916,
+    "total": 39684
+  },
+  {
+    "stationId": 91,
+    "name": "Cibeles",
+    "number": "86",
+    "lat": 40.4186516,
+    "lon": -3.6933498,
+    "departures": 20095,
+    "arrivals": 19341,
+    "total": 39436
+  },
+  {
+    "stationId": 181,
+    "name": "Puente Praga",
+    "number": "173",
+    "lat": 40.3981798,
+    "lon": -3.7023918,
+    "departures": 19678,
+    "arrivals": 19585,
+    "total": 39263
+  },
+  {
+    "stationId": 77,
+    "name": "Plaza de los Astros",
+    "number": "73",
+    "lat": 40.4114475,
+    "lon": -3.6689089,
+    "departures": 19535,
+    "arrivals": 19429,
+    "total": 38964
+  },
+  {
+    "stationId": 213,
+    "name": "Estrecho",
+    "number": "205",
+    "lat": 40.4535,
+    "lon": -3.7032777,
+    "departures": 19468,
+    "arrivals": 19436,
+    "total": 38904
+  },
+  {
+    "stationId": 81,
+    "name": "Conde de Casal",
+    "number": "77",
+    "lat": 40.40635,
+    "lon": -3.670422,
+    "departures": 18838,
+    "arrivals": 19959,
+    "total": 38797
+  },
+  {
+    "stationId": 161,
+    "name": "José Abascal",
+    "number": "129",
+    "lat": 40.4383865,
+    "lon": -3.6982353,
+    "departures": 19774,
+    "arrivals": 18621,
+    "total": 38395
+  },
+  {
+    "stationId": 177,
+    "name": "Pirámides",
+    "number": "169",
+    "lat": 40.4016111,
+    "lon": -3.7138055,
+    "departures": 18703,
+    "arrivals": 19560,
+    "total": 38263
+  },
+  {
+    "stationId": 139,
+    "name": "San Germán 57",
+    "number": "155",
+    "lat": 40.4572824,
+    "lon": -3.7009675,
+    "departures": 19386,
+    "arrivals": 18815,
+    "total": 38201
+  },
+  {
+    "stationId": 202,
+    "name": "Avenida de América 2",
+    "number": "194",
+    "lat": 40.43725,
+    "lon": -3.6772222,
+    "departures": 19354,
+    "arrivals": 18811,
+    "total": 38165
+  },
+  {
+    "stationId": 14,
+    "name": "Conde Duque",
+    "number": "13",
+    "lat": 40.4273264,
+    "lon": -3.7104417,
+    "departures": 19124,
+    "arrivals": 18829,
+    "total": 37953
+  },
+  {
+    "stationId": 44,
+    "name": "Conde de Romanones",
+    "number": "40",
+    "lat": 40.4138846,
+    "lon": -3.7049407,
+    "departures": 18782,
+    "arrivals": 19130,
+    "total": 37912
+  },
+  {
+    "stationId": 32,
+    "name": "Sevilla",
+    "number": "28",
+    "lat": 40.4181518,
+    "lon": -3.6984368,
+    "departures": 18816,
+    "arrivals": 18792,
+    "total": 37608
+  },
+  {
+    "stationId": 187,
+    "name": "Puente de Vallecas",
+    "number": "179",
+    "lat": 40.3979722,
+    "lon": -3.66925,
+    "departures": 17851,
+    "arrivals": 19663,
+    "total": 37514
+  },
+  {
+    "stationId": 73,
+    "name": "Puerta del Ángel Caído",
+    "number": "69",
+    "lat": 40.409808,
+    "lon": -3.688822,
+    "departures": 18435,
+    "arrivals": 18865,
+    "total": 37300
+  },
+  {
+    "stationId": 210,
+    "name": "Parque Santander",
+    "number": "202",
+    "lat": 40.4411388,
+    "lon": -3.7080833,
+    "departures": 17838,
+    "arrivals": 18920,
+    "total": 36758
+  },
+  {
+    "stationId": 207,
+    "name": "Fernando el Católico",
+    "number": "199",
+    "lat": 40.4343611,
+    "lon": -3.7149166,
+    "departures": 18251,
+    "arrivals": 18171,
+    "total": 36422
+  },
+  {
+    "stationId": 124,
+    "name": "Plaza de España B",
+    "number": "116b",
+    "lat": 40.42412,
+    "lon": -3.711703,
+    "departures": 18324,
+    "arrivals": 18079,
+    "total": 36403
+  },
+  {
+    "stationId": 219,
+    "name": "Desengaño",
+    "number": "211",
+    "lat": 40.42059,
+    "lon": -3.70239,
+    "departures": 18045,
+    "arrivals": 18224,
+    "total": 36269
+  },
+  {
+    "stationId": 212,
+    "name": "Cuatro Caminos 2",
+    "number": "204",
+    "lat": 40.4476666,
+    "lon": -3.7041666,
+    "departures": 18219,
+    "arrivals": 17714,
+    "total": 35933
+  },
+  {
+    "stationId": 95,
+    "name": "General Pardiñas",
+    "number": "90",
+    "lat": 40.4250361,
+    "lon": -3.6837876,
+    "departures": 18507,
+    "arrivals": 17356,
+    "total": 35863
+  },
+  {
+    "stationId": 172,
+    "name": "Colombia",
+    "number": "160",
+    "lat": 40.4572466,
+    "lon": -3.6763439,
+    "departures": 17882,
+    "arrivals": 17783,
+    "total": 35665
+  },
+  {
+    "stationId": 154,
+    "name": "Paseo de la Castellana con Raimundo Fernández",
+    "number": "138",
+    "lat": 40.4457414,
+    "lon": -3.6917932,
+    "departures": 18895,
+    "arrivals": 16640,
+    "total": 35535
+  },
+  {
+    "stationId": 76,
+    "name": "Sainz de Baranda",
+    "number": "72",
+    "lat": 40.4157413,
+    "lon": -3.6691838,
+    "departures": 17727,
+    "arrivals": 17780,
+    "total": 35507
+  },
+  {
+    "stationId": 183,
+    "name": "Jaime el Conquistador",
+    "number": "175",
+    "lat": 40.3962222,
+    "lon": -3.6983055,
+    "departures": 17370,
+    "arrivals": 18121,
+    "total": 35491
+  },
+  {
+    "stationId": 51,
+    "name": "Embajadores 1",
+    "number": "47",
+    "lat": 40.4047851,
+    "lon": -3.7028265,
+    "departures": 17656,
+    "arrivals": 17725,
+    "total": 35381
+  },
+  {
+    "stationId": 133,
+    "name": "Metro Pirámides",
+    "number": "162",
+    "lat": 40.4034076,
+    "lon": -3.7108108,
+    "departures": 17359,
+    "arrivals": 17900,
+    "total": 35259
+  },
+  {
+    "stationId": 67,
+    "name": "Ibiza",
+    "number": "63",
+    "lat": 40.4179237,
+    "lon": -3.6708959,
+    "departures": 17601,
+    "arrivals": 17555,
+    "total": 35156
+  },
+  {
+    "stationId": 75,
+    "name": "Doce de Octubre",
+    "number": "71",
+    "lat": 40.4159569,
+    "lon": -3.6738865,
+    "departures": 17560,
+    "arrivals": 17552,
+    "total": 35112
+  },
+  {
+    "stationId": 8,
+    "name": "Hortaleza",
+    "number": "7",
+    "lat": 40.4251906,
+    "lon": -3.6977715,
+    "departures": 17528,
+    "arrivals": 17436,
+    "total": 34964
+  },
+  {
+    "stationId": 206,
+    "name": "Rubén Darío",
+    "number": "198",
+    "lat": 40.4331111,
+    "lon": -3.6915555,
+    "departures": 17670,
+    "arrivals": 17149,
+    "total": 34819
+  },
+  {
+    "stationId": 160,
+    "name": "Cea Bermúdez",
+    "number": "128",
+    "lat": 40.438994,
+    "lon": -3.7154329,
+    "departures": 17697,
+    "arrivals": 17041,
+    "total": 34738
+  },
+  {
+    "stationId": 10,
+    "name": "Plaza de San Miguel",
+    "number": "9",
+    "lat": 40.4156057,
+    "lon": -3.7095084,
+    "departures": 17314,
+    "arrivals": 17310,
+    "total": 34624
+  },
+  {
+    "stationId": 80,
+    "name": "Puerta de Mariano de Cavia",
+    "number": "76",
+    "lat": 40.4071304,
+    "lon": -3.6751352,
+    "departures": 16941,
+    "arrivals": 17323,
+    "total": 34264
+  },
+  {
+    "stationId": 86,
+    "name": "Cuesta de Moyano",
+    "number": "81",
+    "lat": 40.409297,
+    "lon": -3.691987,
+    "departures": 16926,
+    "arrivals": 16873,
+    "total": 33799
+  },
+  {
+    "stationId": 182,
+    "name": "Madrid Río-Yeserías",
+    "number": "174",
+    "lat": 40.3974444,
+    "lon": -3.7065277,
+    "departures": 16615,
+    "arrivals": 16920,
+    "total": 33535
+  },
+  {
+    "stationId": 230,
+    "name": "Antonio López",
+    "number": "222",
+    "lat": 40.3917871,
+    "lon": -3.7026789,
+    "departures": 16093,
+    "arrivals": 17397,
+    "total": 33490
+  },
+  {
+    "stationId": 118,
+    "name": "Arcipreste de Hita B",
+    "number": "111b",
+    "lat": 40.4341006,
+    "lon": -3.7179687,
+    "departures": 16773,
+    "arrivals": 16678,
+    "total": 33451
+  },
+  {
+    "stationId": 180,
+    "name": "Delicias",
+    "number": "172",
+    "lat": 40.4008888,
+    "lon": -3.6935833,
+    "departures": 16782,
+    "arrivals": 16650,
+    "total": 33432
+  },
+  {
+    "stationId": 71,
+    "name": "Almadén",
+    "number": "67",
+    "lat": 40.4108472,
+    "lon": -3.693225,
+    "departures": 16659,
+    "arrivals": 16707,
+    "total": 33366
+  },
+  {
+    "stationId": 134,
+    "name": "Paseo de la Esperanza",
+    "number": "163",
+    "lat": 40.4035988,
+    "lon": -3.7064516,
+    "departures": 16348,
+    "arrivals": 17009,
+    "total": 33357
+  },
+  {
+    "stationId": 7,
+    "name": "Colegio Arquitectos",
+    "number": "6",
+    "lat": 40.424148,
+    "lon": -3.698447,
+    "departures": 16605,
+    "arrivals": 16697,
+    "total": 33302
+  },
+  {
+    "stationId": 241,
+    "name": "Marqués de Corbera 12",
+    "number": "233",
+    "lat": 40.422962108947424,
+    "lon": -3.6555552857442697,
+    "departures": 16471,
+    "arrivals": 16640,
+    "total": 33111
+  },
+  {
+    "stationId": 114,
+    "name": "Mártires Concepcionistas",
+    "number": "108",
+    "lat": 40.4273005,
+    "lon": -3.6706024,
+    "departures": 16706,
+    "arrivals": 16208,
+    "total": 32914
+  },
+  {
+    "stationId": 184,
+    "name": "Beata",
+    "number": "176",
+    "lat": 40.39425,
+    "lon": -3.6937222,
+    "departures": 16203,
+    "arrivals": 16652,
+    "total": 32855
+  },
+  {
+    "stationId": 54,
+    "name": "Museo Reina Sofía",
+    "number": "50",
+    "lat": 40.4083684,
+    "lon": -3.6933463,
+    "departures": 16369,
+    "arrivals": 16378,
+    "total": 32747
+  },
+  {
+    "stationId": 198,
+    "name": "Velázquez-Diego de León",
+    "number": "190",
+    "lat": 40.4343333,
+    "lon": -3.6835833,
+    "departures": 16225,
+    "arrivals": 16021,
+    "total": 32246
+  },
+  {
+    "stationId": 18,
+    "name": "Carlos Cambronero",
+    "number": "17",
+    "lat": 40.4232649,
+    "lon": -3.7038312,
+    "departures": 16134,
+    "arrivals": 16083,
+    "total": 32217
+  },
+  {
+    "stationId": 4,
+    "name": "Plaza Conde Suchil",
+    "number": "3",
+    "lat": 40.4302937,
+    "lon": -3.7069171,
+    "departures": 16030,
+    "arrivals": 16059,
+    "total": 32089
+  },
+  {
+    "stationId": 236,
+    "name": "Concordia",
+    "number": "227",
+    "lat": 40.39382977920336,
+    "lon": -3.6659362429356372,
+    "departures": 15366,
+    "arrivals": 16722,
+    "total": 32088
+  },
+  {
+    "stationId": 153,
+    "name": "Agustín de Betancourt",
+    "number": "134",
+    "lat": 40.4440297,
+    "lon": -3.6956047,
+    "departures": 16166,
+    "arrivals": 15535,
+    "total": 31701
+  },
+  {
+    "stationId": 66,
+    "name": "O'Donnell",
+    "number": "62",
+    "lat": 40.4213148,
+    "lon": -3.6724968,
+    "departures": 16042,
+    "arrivals": 15562,
+    "total": 31604
+  },
+  {
+    "stationId": 197,
+    "name": "Avenida Donostiarra",
+    "number": "189",
+    "lat": 40.4351256,
+    "lon": -3.6554918,
+    "departures": 15709,
+    "arrivals": 15865,
+    "total": 31574
+  },
+  {
+    "stationId": 33,
+    "name": "Marqués de Cubas",
+    "number": "29",
+    "lat": 40.4162619,
+    "lon": -3.6957355,
+    "departures": 15740,
+    "arrivals": 15790,
+    "total": 31530
+  },
+  {
+    "stationId": 3,
+    "name": "Miguel Moya",
+    "number": "2",
+    "lat": 40.4205886,
+    "lon": -3.7058415,
+    "departures": 15768,
+    "arrivals": 15750,
+    "total": 31518
+  },
+  {
+    "stationId": 63,
+    "name": "Plaza de Juan Pujol",
+    "number": "59",
+    "lat": 40.4255495,
+    "lon": -3.7043418,
+    "departures": 15757,
+    "arrivals": 15760,
+    "total": 31517
+  },
+  {
+    "stationId": 1,
+    "name": "Puerta del Sol A",
+    "number": "1a",
+    "lat": 40.4172137,
+    "lon": -3.7018341,
+    "departures": 16028,
+    "arrivals": 15448,
+    "total": 31476
+  },
+  {
+    "stationId": 99,
+    "name": "Biblioteca Nacional",
+    "number": "94",
+    "lat": 40.4232153,
+    "lon": -3.690756,
+    "departures": 16052,
+    "arrivals": 15423,
+    "total": 31475
+  },
+  {
+    "stationId": 110,
+    "name": "Serrano",
+    "number": "105",
+    "lat": 40.42699,
+    "lon": -3.68745,
+    "departures": 15866,
+    "arrivals": 15251,
+    "total": 31117
+  },
+  {
+    "stationId": 247,
+    "name": "Francos Rodríguez",
+    "number": "239",
+    "lat": 40.45673408797698,
+    "lon": -3.708002730875242,
+    "departures": 15824,
+    "arrivals": 15252,
+    "total": 31076
+  },
+  {
+    "stationId": 47,
+    "name": "Jesús y María",
+    "number": "43",
+    "lat": 40.4101564,
+    "lon": -3.7025024,
+    "departures": 15537,
+    "arrivals": 15533,
+    "total": 31070
+  },
+  {
+    "stationId": 113,
+    "name": "Columela",
+    "number": "107",
+    "lat": 40.4215246,
+    "lon": -3.6884369,
+    "departures": 15621,
+    "arrivals": 15213,
+    "total": 30834
+  },
+  {
+    "stationId": 162,
+    "name": "Velázquez 130",
+    "number": "140",
+    "lat": 40.4385127,
+    "lon": -3.6831578,
+    "departures": 15664,
+    "arrivals": 15065,
+    "total": 30729
+  },
+  {
+    "stationId": 176,
+    "name": "Batalla del Salado",
+    "number": "168",
+    "lat": 40.4044722,
+    "lon": -3.6959166,
+    "departures": 14904,
+    "arrivals": 15626,
+    "total": 30530
+  },
+  {
+    "stationId": 125,
+    "name": "Altamirano",
+    "number": "117",
+    "lat": 40.4309797,
+    "lon": -3.7188898,
+    "departures": 14937,
+    "arrivals": 15206,
+    "total": 30143
+  },
+  {
+    "stationId": 166,
+    "name": "Diego de León 52",
+    "number": "143",
+    "lat": 40.4345973,
+    "lon": -3.678492,
+    "departures": 15031,
+    "arrivals": 14646,
+    "total": 29677
+  },
+  {
+    "stationId": 126,
+    "name": "Juan Martín",
+    "number": "118",
+    "lat": 40.400781,
+    "lon": -3.6882407,
+    "departures": 14558,
+    "arrivals": 14997,
+    "total": 29555
+  },
+  {
+    "stationId": 92,
+    "name": "Ayala",
+    "number": "87",
+    "lat": 40.427736,
+    "lon": -3.6832566,
+    "departures": 14746,
+    "arrivals": 14795,
+    "total": 29541
+  },
+  {
+    "stationId": 130,
+    "name": "Santa Engracia 14",
+    "number": "122",
+    "lat": 40.4291992,
+    "lon": -3.6967169,
+    "departures": 14800,
+    "arrivals": 14679,
+    "total": 29479
+  },
+  {
+    "stationId": 39,
+    "name": "Plaza del Cordón",
+    "number": "35",
+    "lat": 40.4141931,
+    "lon": -3.7103285,
+    "departures": 14681,
+    "arrivals": 14616,
+    "total": 29297
+  },
+  {
+    "stationId": 192,
+    "name": "Marqués de Zafra",
+    "number": "184",
+    "lat": 40.426,
+    "lon": -3.6653055,
+    "departures": 14609,
+    "arrivals": 14540,
+    "total": 29149
+  },
+  {
+    "stationId": 96,
+    "name": "Príncipe de Vergara",
+    "number": "91",
+    "lat": 40.426134,
+    "lon": -3.6787441,
+    "departures": 14547,
+    "arrivals": 14489,
+    "total": 29036
+  },
+  {
+    "stationId": 82,
+    "name": "Pedro Bosch",
+    "number": "78",
+    "lat": 40.400789,
+    "lon": -3.6744,
+    "departures": 13725,
+    "arrivals": 15235,
+    "total": 28960
+  },
+  {
+    "stationId": 12,
+    "name": "San Andrés",
+    "number": "11",
+    "lat": 40.4269483,
+    "lon": -3.7035918,
+    "departures": 14441,
+    "arrivals": 14410,
+    "total": 28851
+  },
+  {
+    "stationId": 156,
+    "name": "Bravo Murillo 44",
+    "number": "131",
+    "lat": 40.4418402,
+    "lon": -3.7040344,
+    "departures": 15107,
+    "arrivals": 13659,
+    "total": 28766
+  },
+  {
+    "stationId": 171,
+    "name": "Ortega y Gasset 87",
+    "number": "145",
+    "lat": 40.429887,
+    "lon": -3.6712823,
+    "departures": 14516,
+    "arrivals": 14081,
+    "total": 28597
+  },
+  {
+    "stationId": 106,
+    "name": "Jorge Juan",
+    "number": "101",
+    "lat": 40.4231526,
+    "lon": -3.6691524,
+    "departures": 14275,
+    "arrivals": 14203,
+    "total": 28478
+  },
+  {
+    "stationId": 185,
+    "name": "Legazpi",
+    "number": "177",
+    "lat": 40.3914722,
+    "lon": -3.6941944,
+    "departures": 13588,
+    "arrivals": 14745,
+    "total": 28333
+  },
+  {
+    "stationId": 194,
+    "name": "General Pardiñas",
+    "number": "186",
+    "lat": 40.4290555,
+    "lon": -3.6782777,
+    "departures": 14177,
+    "arrivals": 14135,
+    "total": 28312
+  },
+  {
+    "stationId": 199,
+    "name": "Diego de león",
+    "number": "191",
+    "lat": 40.4346388,
+    "lon": -3.674,
+    "departures": 14196,
+    "arrivals": 14090,
+    "total": 28286
+  },
+  {
+    "stationId": 214,
+    "name": "Metro Tetuán",
+    "number": "206",
+    "lat": 40.4607502,
+    "lon": -3.6989925,
+    "departures": 14608,
+    "arrivals": 13586,
+    "total": 28194
+  },
+  {
+    "stationId": 34,
+    "name": "San Quintín",
+    "number": "30",
+    "lat": 40.4192095,
+    "lon": -3.711504,
+    "departures": 14677,
+    "arrivals": 13457,
+    "total": 28134
+  },
+  {
+    "stationId": 200,
+    "name": "Avenida de los Toreros",
+    "number": "192",
+    "lat": 40.4318611,
+    "lon": -3.6714166,
+    "departures": 14930,
+    "arrivals": 12987,
+    "total": 27917
+  },
+  {
+    "stationId": 190,
+    "name": "Parque Roma",
+    "number": "182",
+    "lat": 40.4186666,
+    "lon": -3.6657777,
+    "departures": 13988,
+    "arrivals": 13858,
+    "total": 27846
+  },
+  {
+    "stationId": 16,
+    "name": "San Vicente Ferrer",
+    "number": "15",
+    "lat": 40.4262383,
+    "lon": -3.7074453,
+    "departures": 13932,
+    "arrivals": 13911,
+    "total": 27843
+  },
+  {
+    "stationId": 209,
+    "name": "Canal",
+    "number": "201",
+    "lat": 40.4386944,
+    "lon": -3.7038333,
+    "departures": 14302,
+    "arrivals": 13196,
+    "total": 27498
+  },
+  {
+    "stationId": 27,
+    "name": "Palacio de Oriente",
+    "number": "24",
+    "lat": 40.417908,
+    "lon": -3.710692,
+    "departures": 14313,
+    "arrivals": 13139,
+    "total": 27452
+  },
+  {
+    "stationId": 123,
+    "name": "Plaza de España A",
+    "number": "116a",
+    "lat": 40.42402,
+    "lon": -3.711603,
+    "departures": 13643,
+    "arrivals": 13770,
+    "total": 27413
+  },
+  {
+    "stationId": 264,
+    "name": "Reina Victoria",
+    "number": "256",
+    "lat": 40.44635,
+    "lon": -3.71383,
+    "departures": 13738,
+    "arrivals": 13586,
+    "total": 27324
+  },
+  {
+    "stationId": 94,
+    "name": "Conde Peñalver",
+    "number": "89",
+    "lat": 40.4272582,
+    "lon": -3.6752024,
+    "departures": 13621,
+    "arrivals": 13366,
+    "total": 26987
+  },
+  {
+    "stationId": 155,
+    "name": "María Francisca 1",
+    "number": "146",
+    "lat": 40.4442258,
+    "lon": -3.6787169,
+    "departures": 13569,
+    "arrivals": 13351,
+    "total": 26920
+  },
+  {
+    "stationId": 243,
+    "name": "Embajadores 191",
+    "number": "235",
+    "lat": 40.389258643579105,
+    "lon": -3.6903589643353483,
+    "departures": 12911,
+    "arrivals": 13889,
+    "total": 26800
+  },
+  {
+    "stationId": 69,
+    "name": "Antonio Maura",
+    "number": "65",
+    "lat": 40.4166834,
+    "lon": -3.6894193,
+    "departures": 13474,
+    "arrivals": 13318,
+    "total": 26792
+  },
+  {
+    "stationId": 141,
+    "name": "Orense 36",
+    "number": "154",
+    "lat": 40.4548456,
+    "lon": -3.6946218,
+    "departures": 13965,
+    "arrivals": 12789,
+    "total": 26754
+  },
+  {
+    "stationId": 251,
+    "name": "Cartagena",
+    "number": "243",
+    "lat": 40.43503,
+    "lon": -3.67012,
+    "departures": 13336,
+    "arrivals": 13178,
+    "total": 26514
+  },
+  {
+    "stationId": 259,
+    "name": "Corazón de María",
+    "number": "251",
+    "lat": 40.44421,
+    "lon": -3.66683,
+    "departures": 13234,
+    "arrivals": 13098,
+    "total": 26332
+  },
+  {
+    "stationId": 25,
+    "name": "Jacometrezo",
+    "number": "22",
+    "lat": 40.4200783,
+    "lon": -3.7065376,
+    "departures": 13176,
+    "arrivals": 13141,
+    "total": 26317
+  },
+  {
+    "stationId": 121,
+    "name": "Quintana",
+    "number": "114",
+    "lat": 40.4277456,
+    "lon": -3.7174158,
+    "departures": 12843,
+    "arrivals": 13118,
+    "total": 25961
+  },
+  {
+    "stationId": 15,
+    "name": "Ventura Rodríguez",
+    "number": "14",
+    "lat": 40.4260957,
+    "lon": -3.713479,
+    "departures": 13096,
+    "arrivals": 12804,
+    "total": 25900
+  },
+  {
+    "stationId": 5,
+    "name": "Malasaña",
+    "number": "4",
+    "lat": 40.4285524,
+    "lon": -3.7025875,
+    "departures": 12892,
+    "arrivals": 12817,
+    "total": 25709
+  },
+  {
+    "stationId": 226,
+    "name": "Camino Vinateros",
+    "number": "218",
+    "lat": 40.41053,
+    "lon": -3.65779,
+    "departures": 12417,
+    "arrivals": 13242,
+    "total": 25659
+  },
+  {
+    "stationId": 115,
+    "name": "Marqués de Salamanca",
+    "number": "109",
+    "lat": 40.4300481,
+    "lon": -3.6816402,
+    "departures": 12663,
+    "arrivals": 12864,
+    "total": 25527
+  },
+  {
+    "stationId": 240,
+    "name": "José María Pereda",
+    "number": "232",
+    "lat": 40.43272086245887,
+    "lon": -3.6485306152875148,
+    "departures": 12648,
+    "arrivals": 12790,
+    "total": 25438
+  },
+  {
+    "stationId": 40,
+    "name": "Plaza Ramales",
+    "number": "36",
+    "lat": 40.4168,
+    "lon": -3.71183,
+    "departures": 12786,
+    "arrivals": 12421,
+    "total": 25207
+  },
+  {
+    "stationId": 167,
+    "name": "Castellana 42",
+    "number": "142",
+    "lat": 40.4334087,
+    "lon": -3.6879154,
+    "departures": 12805,
+    "arrivals": 12301,
+    "total": 25106
+  },
+  {
+    "stationId": 116,
+    "name": "Moncloa",
+    "number": "110",
+    "lat": 40.4347895,
+    "lon": -3.7200845,
+    "departures": 12396,
+    "arrivals": 12425,
+    "total": 24821
+  },
+  {
+    "stationId": 146,
+    "name": "Paseo de la Habana 42",
+    "number": "149",
+    "lat": 40.4498613,
+    "lon": -3.6881689,
+    "departures": 12302,
+    "arrivals": 12439,
+    "total": 24741
+  },
+  {
+    "stationId": 252,
+    "name": "Hospital Clínico",
+    "number": "244",
+    "lat": 40.44003,
+    "lon": -3.71757,
+    "departures": 12487,
+    "arrivals": 12074,
+    "total": 24561
+  },
+  {
+    "stationId": 108,
+    "name": "Ortega y Gasset",
+    "number": "103",
+    "lat": 40.43037,
+    "lon": -3.68653,
+    "departures": 11750,
+    "arrivals": 11905,
+    "total": 23655
+  },
+  {
+    "stationId": 127,
+    "name": "Méndez Álvaro",
+    "number": "119",
+    "lat": 40.4013216,
+    "lon": -3.6863218,
+    "departures": 11810,
+    "arrivals": 11817,
+    "total": 23627
+  },
+  {
+    "stationId": 102,
+    "name": "Alcalá",
+    "number": "97",
+    "lat": 40.4222969,
+    "lon": -3.6805189,
+    "departures": 12597,
+    "arrivals": 10928,
+    "total": 23525
+  },
+  {
+    "stationId": 104,
+    "name": "Alcántara",
+    "number": "99",
+    "lat": 40.4261851,
+    "lon": -3.6738714,
+    "departures": 11663,
+    "arrivals": 11627,
+    "total": 23290
+  },
+  {
+    "stationId": 122,
+    "name": "Ferraz",
+    "number": "115",
+    "lat": 40.4253944,
+    "lon": -3.7170448,
+    "departures": 11607,
+    "arrivals": 11470,
+    "total": 23077
+  },
+  {
+    "stationId": 201,
+    "name": "Ventas",
+    "number": "193",
+    "lat": 40.4324722,
+    "lon": -3.6655555,
+    "departures": 11881,
+    "arrivals": 11028,
+    "total": 22909
+  },
+  {
+    "stationId": 37,
+    "name": "Carretas",
+    "number": "33",
+    "lat": 40.4165039,
+    "lon": -3.7030833,
+    "departures": 11326,
+    "arrivals": 11328,
+    "total": 22654
+  },
+  {
+    "stationId": 93,
+    "name": "Embajada de Italia",
+    "number": "88",
+    "lat": 40.4313576,
+    "lon": -3.6838303,
+    "departures": 11442,
+    "arrivals": 11018,
+    "total": 22460
+  },
+  {
+    "stationId": 215,
+    "name": "Remonta",
+    "number": "207",
+    "lat": 40.4630277,
+    "lon": -3.6973333,
+    "departures": 11200,
+    "arrivals": 11174,
+    "total": 22374
+  },
+  {
+    "stationId": 87,
+    "name": "Niño Jesús",
+    "number": "82",
+    "lat": 40.4084556,
+    "lon": -3.6697526,
+    "departures": 10936,
+    "arrivals": 11063,
+    "total": 21999
+  },
+  {
+    "stationId": 203,
+    "name": "Avenida de América 1",
+    "number": "195",
+    "lat": 40.4392222,
+    "lon": -3.6754444,
+    "departures": 11176,
+    "arrivals": 10324,
+    "total": 21500
+  },
+  {
+    "stationId": 218,
+    "name": "Tres Cruces",
+    "number": "210",
+    "lat": 40.419674,
+    "lon": -3.7026735,
+    "departures": 10829,
+    "arrivals": 10592,
+    "total": 21421
+  },
+  {
+    "stationId": 35,
+    "name": "Calle Mayor",
+    "number": "31",
+    "lat": 40.4163638,
+    "lon": -3.7068969,
+    "departures": 10750,
+    "arrivals": 10583,
+    "total": 21333
+  },
+  {
+    "stationId": 270,
+    "name": "Zurbano",
+    "number": "247",
+    "lat": 40.43837,
+    "lon": -3.69281,
+    "departures": 10931,
+    "arrivals": 10324,
+    "total": 21255
+  },
+  {
+    "stationId": 36,
+    "name": "Plaza de la Provincia",
+    "number": "32",
+    "lat": 40.4150099,
+    "lon": -3.7061032,
+    "departures": 10318,
+    "arrivals": 10886,
+    "total": 21204
+  },
+  {
+    "stationId": 158,
+    "name": "Plaza de San Juan de la Cruz",
+    "number": "135",
+    "lat": 40.4415974,
+    "lon": -3.6927821,
+    "departures": 11293,
+    "arrivals": 9886,
+    "total": 21179
+  },
+  {
+    "stationId": 195,
+    "name": "Alcalá-Ventas",
+    "number": "187",
+    "lat": 40.4301666,
+    "lon": -3.6638888,
+    "departures": 10569,
+    "arrivals": 10595,
+    "total": 21164
+  },
+  {
+    "stationId": 100,
+    "name": "Villanueva",
+    "number": "95",
+    "lat": 40.4226584,
+    "lon": -3.6870548,
+    "departures": 10520,
+    "arrivals": 10526,
+    "total": 21046
+  },
+  {
+    "stationId": 216,
+    "name": "Plaza de Castilla",
+    "number": "208",
+    "lat": 40.4663611,
+    "lon": -3.6886388,
+    "departures": 10661,
+    "arrivals": 10207,
+    "total": 20868
+  },
+  {
+    "stationId": 205,
+    "name": "Parque Berlín",
+    "number": "197",
+    "lat": 40.4515833,
+    "lon": -3.6780555,
+    "departures": 10527,
+    "arrivals": 9859,
+    "total": 20386
+  },
+  {
+    "stationId": 137,
+    "name": "Castellana 164",
+    "number": "157",
+    "lat": 40.4591366,
+    "lon": -3.6894151,
+    "departures": 10475,
+    "arrivals": 9829,
+    "total": 20304
+  },
+  {
+    "stationId": 72,
+    "name": "Espalter",
+    "number": "68",
+    "lat": 40.4128372,
+    "lon": -3.6912023,
+    "departures": 9987,
+    "arrivals": 10157,
+    "total": 20144
+  },
+  {
+    "stationId": 85,
+    "name": "Atocha B",
+    "number": "80b",
+    "lat": 40.4074902,
+    "lon": -3.6901234,
+    "departures": 9398,
+    "arrivals": 10510,
+    "total": 19908
+  },
+  {
+    "stationId": 227,
+    "name": "Marroquina",
+    "number": "219",
+    "lat": 40.408264,
+    "lon": -3.646697,
+    "departures": 9402,
+    "arrivals": 10411,
+    "total": 19813
+  },
+  {
+    "stationId": 151,
+    "name": "Castellana 106",
+    "number": "136",
+    "lat": 40.4453307,
+    "lon": -3.690861,
+    "departures": 9899,
+    "arrivals": 9851,
+    "total": 19750
+  },
+  {
+    "stationId": 242,
+    "name": "Marqués de Corbera 52",
+    "number": "234",
+    "lat": 40.426207143200884,
+    "lon": -3.651034981803642,
+    "departures": 9644,
+    "arrivals": 10021,
+    "total": 19665
+  },
+  {
+    "stationId": 117,
+    "name": "Arcipreste de Hita A",
+    "number": "111a",
+    "lat": 40.4337322,
+    "lon": -3.7175435,
+    "departures": 9973,
+    "arrivals": 9642,
+    "total": 19615
+  },
+  {
+    "stationId": 107,
+    "name": "Velázquez",
+    "number": "102",
+    "lat": 40.4211802,
+    "lon": -3.6840229,
+    "departures": 9849,
+    "arrivals": 9722,
+    "total": 19571
+  },
+  {
+    "stationId": 101,
+    "name": "Castelló",
+    "number": "96",
+    "lat": 40.422064,
+    "lon": -3.6821793,
+    "departures": 10385,
+    "arrivals": 9145,
+    "total": 19530
+  },
+  {
+    "stationId": 2,
+    "name": "Puerta del Sol B",
+    "number": "1b",
+    "lat": 40.41731271011562,
+    "lon": -3.701602938060457,
+    "departures": 10082,
+    "arrivals": 9433,
+    "total": 19515
+  },
+  {
+    "stationId": 217,
+    "name": "Plaza de Castilla 2",
+    "number": "209",
+    "lat": 40.4656779,
+    "lon": -3.6887722,
+    "departures": 9630,
+    "arrivals": 9777,
+    "total": 19407
+  },
+  {
+    "stationId": 148,
+    "name": "Doctor Arce 45",
+    "number": "147",
+    "lat": 40.4483269,
+    "lon": -3.6797296,
+    "departures": 10321,
+    "arrivals": 9053,
+    "total": 19374
+  },
+  {
+    "stationId": 196,
+    "name": "Puente de Ventas",
+    "number": "188",
+    "lat": 40.4311944,
+    "lon": -3.6590555,
+    "departures": 9662,
+    "arrivals": 9645,
+    "total": 19307
+  },
+  {
+    "stationId": 246,
+    "name": "San Germán 5",
+    "number": "238",
+    "lat": 40.45619382579544,
+    "lon": -3.6929376751795306,
+    "departures": 9928,
+    "arrivals": 9313,
+    "total": 19241
+  },
+  {
+    "stationId": 11,
+    "name": "Marqués de la Ensenada",
+    "number": "10",
+    "lat": 40.42533,
+    "lon": -3.69214,
+    "departures": 9783,
+    "arrivals": 9402,
+    "total": 19185
+  },
+  {
+    "stationId": 150,
+    "name": "Raimundo Fernández",
+    "number": "133",
+    "lat": 40.447125,
+    "lon": -3.7001669,
+    "departures": 9750,
+    "arrivals": 9404,
+    "total": 19154
+  },
+  {
+    "stationId": 120,
+    "name": "Pintor Rosales",
+    "number": "113",
+    "lat": 40.427657,
+    "lon": -3.7205129,
+    "departures": 9661,
+    "arrivals": 9480,
+    "total": 19141
+  },
+  {
+    "stationId": 234,
+    "name": "Sierra Toledana",
+    "number": "226",
+    "lat": 40.39901531507069,
+    "lon": -3.6607768678037744,
+    "departures": 9245,
+    "arrivals": 9872,
+    "total": 19117
+  },
+  {
+    "stationId": 223,
+    "name": "Gutierre de Cetina",
+    "number": "215",
+    "lat": 40.429706,
+    "lon": -3.640994,
+    "departures": 9231,
+    "arrivals": 9570,
+    "total": 18801
+  },
+  {
+    "stationId": 193,
+    "name": "Quinta Fuente del Berro",
+    "number": "185",
+    "lat": 40.4250833,
+    "lon": -3.6615277,
+    "departures": 9917,
+    "arrivals": 8811,
+    "total": 18728
+  },
+  {
+    "stationId": 140,
+    "name": "Sor Ángela de la Cruz",
+    "number": "156",
+    "lat": 40.4592351,
+    "lon": -3.691533,
+    "departures": 9745,
+    "arrivals": 8789,
+    "total": 18534
+  },
+  {
+    "stationId": 105,
+    "name": "Palacio de Deportes",
+    "number": "100",
+    "lat": 40.42478,
+    "lon": -3.67384,
+    "departures": 9480,
+    "arrivals": 8903,
+    "total": 18383
+  },
+  {
+    "stationId": 188,
+    "name": "Méndez Álvaro",
+    "number": "180",
+    "lat": 40.3941388,
+    "lon": -3.6758888,
+    "departures": 9020,
+    "arrivals": 9335,
+    "total": 18355
+  },
+  {
+    "stationId": 265,
+    "name": "INEF",
+    "number": "257",
+    "lat": 40.43896,
+    "lon": -3.72997,
+    "departures": 9071,
+    "arrivals": 9200,
+    "total": 18271
+  },
+  {
+    "stationId": 112,
+    "name": "Colón B",
+    "number": "106b",
+    "lat": 40.424963,
+    "lon": -3.687745,
+    "departures": 9585,
+    "arrivals": 8528,
+    "total": 18113
+  },
+  {
+    "stationId": 249,
+    "name": "Camilo José Cela",
+    "number": "241",
+    "lat": 40.4378,
+    "lon": -3.66779,
+    "departures": 9215,
+    "arrivals": 8831,
+    "total": 18046
+  },
+  {
+    "stationId": 109,
+    "name": "Castellana",
+    "number": "104",
+    "lat": 40.42677,
+    "lon": -3.68958,
+    "departures": 9491,
+    "arrivals": 8541,
+    "total": 18032
+  },
+  {
+    "stationId": 89,
+    "name": "Valderribas",
+    "number": "84",
+    "lat": 40.4032501,
+    "lon": -3.6726019,
+    "departures": 8769,
+    "arrivals": 9204,
+    "total": 17973
+  },
+  {
+    "stationId": 211,
+    "name": "San Francisco de Sales",
+    "number": "203",
+    "lat": 40.44175,
+    "lon": -3.7144722,
+    "departures": 8946,
+    "arrivals": 9027,
+    "total": 17973
+  },
+  {
+    "stationId": 159,
+    "name": "José Gutiérrez Abascal ",
+    "number": "139",
+    "lat": 40.4396792,
+    "lon": -3.6907784,
+    "departures": 9156,
+    "arrivals": 8475,
+    "total": 17631
+  },
+  {
+    "stationId": 97,
+    "name": "Claudio Coello",
+    "number": "92",
+    "lat": 40.4262945,
+    "lon": -3.6865463,
+    "departures": 8744,
+    "arrivals": 8738,
+    "total": 17482
+  },
+  {
+    "stationId": 191,
+    "name": "Doctor Esquerdo-Hermosilla",
+    "number": "183",
+    "lat": 40.425635,
+    "lon": -3.669339,
+    "departures": 8700,
+    "arrivals": 8748,
+    "total": 17448
+  },
+  {
+    "stationId": 237,
+    "name": "C.D. Concepción",
+    "number": "229",
+    "lat": 40.43715089959262,
+    "lon": -3.64835857929032,
+    "departures": 8354,
+    "arrivals": 8503,
+    "total": 16857
+  },
+  {
+    "stationId": 262,
+    "name": "Pío XII",
+    "number": "254",
+    "lat": 40.46041,
+    "lon": -3.67712,
+    "departures": 8326,
+    "arrivals": 8214,
+    "total": 16540
+  },
+  {
+    "stationId": 61,
+    "name": "Santa Cruz del Marcenado",
+    "number": "57",
+    "lat": 40.4295658,
+    "lon": -3.7126299,
+    "departures": 8289,
+    "arrivals": 8123,
+    "total": 16412
+  },
+  {
+    "stationId": 152,
+    "name": "Plaza de la República Argentina",
+    "number": "137",
+    "lat": 40.445411,
+    "lon": -3.6853312,
+    "departures": 8444,
+    "arrivals": 7553,
+    "total": 15997
+  },
+  {
+    "stationId": 165,
+    "name": "Paseo de la Castellana - Glorieta de Emilio Castelar",
+    "number": "141",
+    "lat": 40.4355143,
+    "lon": -3.6892368,
+    "departures": 8124,
+    "arrivals": 7866,
+    "total": 15990
+  },
+  {
+    "stationId": 138,
+    "name": "Alberto Alcocer",
+    "number": "158",
+    "lat": 40.4585318,
+    "lon": -3.684715,
+    "departures": 7817,
+    "arrivals": 7586,
+    "total": 15403
+  },
+  {
+    "stationId": 111,
+    "name": "Colón A",
+    "number": "106a",
+    "lat": 40.4251002,
+    "lon": -3.6877227,
+    "departures": 8148,
+    "arrivals": 7221,
+    "total": 15369
+  },
+  {
+    "stationId": 245,
+    "name": "Pablo Iglesias",
+    "number": "237",
+    "lat": 40.451333,
+    "lon": -3.710525,
+    "departures": 7627,
+    "arrivals": 7605,
+    "total": 15232
+  },
+  {
+    "stationId": 119,
+    "name": "Paseo de Moret",
+    "number": "112",
+    "lat": 40.4325991,
+    "lon": -3.7246532,
+    "departures": 7511,
+    "arrivals": 7444,
+    "total": 14955
+  },
+  {
+    "stationId": 98,
+    "name": "Plaza de Colón",
+    "number": "93",
+    "lat": 40.4257046,
+    "lon": -3.6893698,
+    "departures": 7724,
+    "arrivals": 7155,
+    "total": 14879
+  },
+  {
+    "stationId": 268,
+    "name": "Facultad Biología",
+    "number": "260",
+    "lat": 40.4483322,
+    "lon": -3.7272945,
+    "departures": 7417,
+    "arrivals": 7368,
+    "total": 14785
+  },
+  {
+    "stationId": 174,
+    "name": "Segovia 26",
+    "number": "166",
+    "lat": 40.4138333,
+    "lon": -3.7135833,
+    "departures": 7384,
+    "arrivals": 7061,
+    "total": 14445
+  },
+  {
+    "stationId": 228,
+    "name": "Plaza del Encuentro",
+    "number": "220",
+    "lat": 40.40617,
+    "lon": -3.65122,
+    "departures": 6976,
+    "arrivals": 7394,
+    "total": 14370
+  },
+  {
+    "stationId": 60,
+    "name": "Plaza del Carmen ",
+    "number": "56",
+    "lat": 40.4184192,
+    "lon": -3.7032414,
+    "departures": 7097,
+    "arrivals": 7100,
+    "total": 14197
+  },
+  {
+    "stationId": 256,
+    "name": "Torre Cepsa",
+    "number": "248",
+    "lat": 40.47435,
+    "lon": -3.68797,
+    "departures": 7389,
+    "arrivals": 6407,
+    "total": 13796
+  },
+  {
+    "stationId": 222,
+    "name": "Condesa de Venadito",
+    "number": "214",
+    "lat": 40.44315,
+    "lon": -3.65741,
+    "departures": 6991,
+    "arrivals": 6704,
+    "total": 13695
+  },
+  {
+    "stationId": 173,
+    "name": "Paseo de la Habana 63",
+    "number": "159",
+    "lat": 40.4543852,
+    "lon": -3.6835926,
+    "departures": 6319,
+    "arrivals": 6363,
+    "total": 12682
+  },
+  {
+    "stationId": 269,
+    "name": "Facultad Derecho",
+    "number": "261",
+    "lat": 40.45109,
+    "lon": -3.72937,
+    "departures": 6184,
+    "arrivals": 6390,
+    "total": 12574
+  },
+  {
+    "stationId": 250,
+    "name": "Avenida Bruselas",
+    "number": "242",
+    "lat": 40.43865,
+    "lon": -3.66301,
+    "departures": 6240,
+    "arrivals": 6249,
+    "total": 12489
+  },
+  {
+    "stationId": 261,
+    "name": "Doctor Fleming",
+    "number": "253",
+    "lat": 40.45546,
+    "lon": -3.68844,
+    "departures": 6092,
+    "arrivals": 5915,
+    "total": 12007
+  },
+  {
+    "stationId": 88,
+    "name": "Pío Baroja",
+    "number": "83",
+    "lat": 40.4132995,
+    "lon": -3.6745323,
+    "departures": 6158,
+    "arrivals": 5775,
+    "total": 11933
+  },
+  {
+    "stationId": 233,
+    "name": "Doctor Lozano",
+    "number": "225",
+    "lat": 40.40248333540473,
+    "lon": -3.660188083470652,
+    "departures": 5460,
+    "arrivals": 6271,
+    "total": 11731
+  },
+  {
+    "stationId": 239,
+    "name": "Derechos Humanos",
+    "number": "231",
+    "lat": 40.43965673033275,
+    "lon": -3.6557656204708775,
+    "departures": 5381,
+    "arrivals": 5350,
+    "total": 10731
+  },
+  {
+    "stationId": 238,
+    "name": "Carlota O’Neill",
+    "number": "230",
+    "lat": 40.44370542379883,
+    "lon": -3.648958444298144,
+    "departures": 5260,
+    "arrivals": 5445,
+    "total": 10705
+  },
+  {
+    "stationId": 144,
+    "name": "Serrano 210",
+    "number": "148",
+    "lat": 40.4510188,
+    "lon": -3.6817962,
+    "departures": 5735,
+    "arrivals": 4907,
+    "total": 10642
+  },
+  {
+    "stationId": 29,
+    "name": "Plaza de Celenque B",
+    "number": "25b",
+    "lat": 40.4172781,
+    "lon": -3.7063837,
+    "departures": 5435,
+    "arrivals": 4671,
+    "total": 10106
+  },
+  {
+    "stationId": 267,
+    "name": "Ciudad Universitaria 2",
+    "number": "259",
+    "lat": 40.44342,
+    "lon": -3.72693,
+    "departures": 5122,
+    "arrivals": 4935,
+    "total": 10057
+  },
+  {
+    "stationId": 248,
+    "name": "Avenida Brasilia",
+    "number": "240",
+    "lat": 40.43666,
+    "lon": -3.66096,
+    "departures": 4911,
+    "arrivals": 4876,
+    "total": 9787
+  },
+  {
+    "stationId": 263,
+    "name": "López Pozas",
+    "number": "255",
+    "lat": 40.46361,
+    "lon": -3.68514,
+    "departures": 5021,
+    "arrivals": 4696,
+    "total": 9717
+  },
+  {
+    "stationId": 258,
+    "name": "Serrano 113",
+    "number": "250",
+    "lat": 40.44106,
+    "lon": -3.68609,
+    "departures": 4578,
+    "arrivals": 4081,
+    "total": 8659
+  },
+  {
+    "stationId": 229,
+    "name": "Pavones",
+    "number": "221",
+    "lat": 40.400368,
+    "lon": -3.634587,
+    "departures": 3777,
+    "arrivals": 4165,
+    "total": 7942
+  },
+  {
+    "stationId": 257,
+    "name": "Manuel Caldeiro",
+    "number": "249",
+    "lat": 40.47938,
+    "lon": -3.68532,
+    "departures": 3767,
+    "arrivals": 3818,
+    "total": 7585
+  },
+  {
+    "stationId": 260,
+    "name": "Chamartín",
+    "number": "252",
+    "lat": 40.4716,
+    "lon": -3.68391,
+    "departures": 3935,
+    "arrivals": 3466,
+    "total": 7401
+  },
+  {
+    "stationId": 28,
+    "name": "Plaza de Celenque A",
+    "number": "25a",
+    "lat": 40.4173703,
+    "lon": -3.7057791,
+    "departures": 4126,
+    "arrivals": 3256,
+    "total": 7382
+  },
+  {
+    "stationId": 266,
+    "name": "Ciudad Universitaria 1",
+    "number": "258",
+    "lat": 40.44375,
+    "lon": -3.72699,
+    "departures": 3739,
+    "arrivals": 3516,
+    "total": 7255
+  },
+  {
+    "stationId": 147,
+    "name": "Castellana frente a Hermanos Pinzón",
+    "number": "150",
+    "lat": 40.4488924,
+    "lon": -3.6905604,
+    "departures": 3180,
+    "arrivals": 3186,
+    "total": 6366
+  },
+  {
+    "stationId": 225,
+    "name": "Pedro Rico",
+    "number": "217",
+    "lat": 40.481086,
+    "lon": -3.688463,
+    "departures": 3261,
+    "arrivals": 3065,
+    "total": 6326
+  },
+  {
+    "stationId": 143,
+    "name": "General Perón con Poeta Joan Maragall",
+    "number": "153",
+    "lat": 40.4522454,
+    "lon": -3.693085,
+    "departures": 2893,
+    "arrivals": 2718,
+    "total": 5611
+  },
+  {
+    "stationId": 142,
+    "name": "General Perón 1",
+    "number": "152",
+    "lat": 40.4527164,
+    "lon": -3.6990077,
+    "departures": 2889,
+    "arrivals": 2685,
+    "total": 5574
+  },
+  {
+    "stationId": 21,
+    "name": "Banco de España A",
+    "number": "20a",
+    "lat": 40.4192342,
+    "lon": -3.6954615,
+    "departures": 2556,
+    "arrivals": 2552,
+    "total": 5108
+  },
+  {
+    "stationId": 20,
+    "name": "Prim",
+    "number": "19",
+    "lat": 40.4218616,
+    "lon": -3.6954983,
+    "departures": 0,
+    "arrivals": 7,
+    "total": 7
+  }
+]

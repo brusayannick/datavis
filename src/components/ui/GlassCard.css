@@ -1,0 +1,36 @@
+.glass-card-component {
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--glass-radius);
+  box-shadow: var(--glass-shadow);
+  transition: background var(--transition-normal);
+}
+
+.glass-card-component:hover {
+  background: var(--glass-bg-hover);
+}
+
+.glass-padding-sm { padding: var(--space-md); }
+.glass-padding-md { padding: var(--space-lg); }
+.glass-padding-lg { padding: var(--space-xl); }
+
+.glass-card-header {
+  margin-bottom: var(--space-md);
+}
+
+.glass-card-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.4;
+}
+
+.glass-card-subtitle {
+  margin-top: var(--space-xs);
+}
+
+.glass-card-body {
+  position: relative;
+}

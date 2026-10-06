@@ -1,0 +1,9 @@
+.heatmap-container {
+  width: 100%;
+  position: relative;
+}
+
+.heatmap-container svg {
+  display: block;
+  width: 100%;
+}

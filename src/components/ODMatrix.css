@@ -1,0 +1,89 @@
+.od-matrix-container {
+  width: 100%;
+  position: relative;
+}
+
+.od-matrix-canvas-wrap {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.od-matrix-container canvas {
+  display: block;
+  border-radius: 8px;
+}
+
+.od-canvas-overlay {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: auto;
+}
+
+.od-tooltip {
+  position: fixed;
+  z-index: 1000;
+  background: rgba(20, 24, 31, 0.92);
+  color: #f2f2f2;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.od-matrix-legend {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.od-gradient {
+  width: 200px;
+  height: 10px;
+  border-radius: 5px;
+}
+
+.od-gradient.magnitude {
+  background: linear-gradient(to right,
+    #010101,
+    #320a5e,
+    #781c6d,
+    #bc3754,
+    #ed6925,
+    #fb9b06,
+    #f7d038,
+    #fcffa4);
+}
+
+.od-legend-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.od-legend-sep {
+  color: var(--text-muted);
+}
+
+.od-swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.od-swatch.diag {
+  background: #3A4150;
+}
+
+.od-swatch.comm {
+  background: transparent;
+  border-left: 2px solid rgba(255, 255, 255, 0.45);
+  outline: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 0;
+  width: 2px;
+}
